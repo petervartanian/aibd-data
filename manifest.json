@@ -1,7 +1,7 @@
 {
-  "id": "2026-11-04-d43da0d26705",
+  "id": "2026-11-04-19fab5b8c7f7",
   "date": "2026-11-04",
-  "sha256": "d43da0d26705baef4a0c0aba0dfc3642980e3a69a9b92d2319ff5b1c4a618faa",
+  "sha256": "19fab5b8c7f7713b092a0f8a22fffe83f33dddab5e582d9caaacccf874510243",
   "cases": 1137,
   "license": "CC BY 4.0",
   "files": {
@@ -11,10 +11,10 @@
     "chanticleer.json": "2051ef955bbfe6688b833538b8603604c630feb79e9ad5cfa2e9d3e7492f6c25",
     "collections.json": "8722fb10b0ee74eaaa959268135630240771aecd88b0d9212d6847cdd01ae48a",
     "echoes.csv": "4379ec7ab31c849afc6e53d74698181d495d81b624f06b00ff80a0af2fd579db",
-    "for-clinical-use.csv": "1d50074ec67b8a7e6e8030808a1773a40d5075d863341c6ab004a9cf73b679cf",
-    "for-court-use.csv": "93b99a173ead94dec8cebed0fdd55957058e682778316ba483f5ce35c4008d63",
+    "for-clinical-use.csv": "a1a2b2b0966d6fdea703521f07e182c693fa83399d91cb1ef0b83a741737b84c",
+    "for-court-use.csv": "7c33b80940cfbd2ee81845bc602148b860e94fe6d30eb39c83f8ac8d5efc1c28",
     "for-impact-assessment.csv": "ee4d3e64a9b0683099990f3eb6545c7b59b140793f19ae7b12d71e2c7abf5ee4",
-    "for-procurement.csv": "20c5e6d52002642717baf3db50ba2d7cc23d6c5f38c17edefae0de4ae3a47e16",
+    "for-procurement.csv": "f225a8571c01e7aeca1100b24e7d6b1f34663b6e0a8ffd053c81944b1fae05a9",
     "for-regulation.csv": "a22614055ae26373b39a2d554b1ba6c7a5748939476833e78b661dd2c51b70eb",
     "fructus-schema.json": "60d03e35aa586174b56a44c0f1a569417648fcbd0d0af7e9f8fcd0c25194a3cc",
     "fructus.csv": "d6669c1023d13ba9e197e603cd873d17b227bf256e089fd4a1cf06c3c894666c",

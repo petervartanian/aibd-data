@@ -1,6 +1,6 @@
 # Artificial Intelligence Benefits Database (AIBD)
 
-Benefits of AI, each traced to its sources. This repository keeps every edition of the database that Peter H. Vartanian curates at [petervartanian.xyz/aibd](https://petervartanian.xyz/aibd/), one commit and one tag per edition, so that Software Heritage can archive each one in full. The site always shows the latest edition. Edition 2026-11-04-d43da0d26705 is also on [Hugging Face](https://huggingface.co/datasets/petervartanian/AIBD), with the DOI [10.57967/hf/11434](https://doi.org/10.57967/hf/11434).
+Benefits of AI, each traced to its sources. This repository keeps every edition of the database that Peter H. Vartanian curates at [petervartanian.xyz/aibd](https://petervartanian.xyz/aibd/), one commit and one tag per edition, so that Software Heritage can archive each one in full. The site always shows the latest edition. Edition 2026-11-04-19fab5b8c7f7 is also on [Hugging Face](https://huggingface.co/datasets/petervartanian/AIBD), with the DOI [10.57967/hf/11447](https://doi.org/10.57967/hf/11447).
 
 A benefit is one good from one system in one setting. A benefit reported in several sources is one benefit with several sources. A benefit that happened again elsewhere is an echo of the first.
 
@@ -22,7 +22,7 @@ Five files put the benefits under the questions of one document each, in that do
 - `for-regulation.csv`: the AI Act, Article 7(2)(j)
 - `for-court-use.csv`: UNESCO's Guidelines for the Use of AI Systems in Courts and Tribunals, principles 1.3, 1.6 and 1.13
 
-`readers.json` gives each document's passage and address. A cell that the sources cannot fill says so.
+`readers.json` gives each document's passage and address. A cell reads “not in the sources” when the sources were read for its question and do not answer it, and “not checked” when no one has read them for it yet.
 
 ## Evidence
 
@@ -45,7 +45,7 @@ The data are released under CC BY 4.0. The site has a [privacy notice](https://p
   title = {Artificial Intelligence Benefits Database},
   year = {2026},
   url = {https://petervartanian.xyz/aibd/},
-  doi = {10.57967/hf/11434},
-  note = {Edition 2026-11-04-d43da0d26705}
+  doi = {10.57967/hf/11447},
+  note = {Edition 2026-11-04-19fab5b8c7f7}
 }
 ```
