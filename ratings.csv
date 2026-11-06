@@ -11,7 +11,7 @@ AIBD-0813,organizational,,"The validation used archived tumors from patients dia
 AIBD-0726,organizational,1,Two probation officers each supervised about 400 people forecast as low risk with about 45 percent fewer contacts and no measured rise in reoffending.
 AIBD-0726,personal,1,"People in the low-intensity caseloads reported in person once every six months, with no measured rise in rearrest."
 AIBD-0673,personal,1,"Claimants in the sample got medical determinations in 18 days on average, and those allowed got them in 15 days on average."
-AIBD-1040,organizational,,"The ANAO credits the group's methods with improved compliance, services and use of resources but gives no figure."
+AIBD-1040,organizational,1,"The ANAO concluded that the group's methods improved compliance, services and the use of resources, a realized gain for the ATO that the audit does not quantify."
 AIBD-0808,organizational,,"The study measured agreement with available diagnoses on processed specimens, and no change in diagnosis or treatment is reported."
 AIBD-0214,personal,2,"The second high-school cohort had a measurable algebra gain, although the corrected significance test was inconclusive."
 AIBD-0844,organizational,1,EPA approved the software as Unit 2's NOx monitor in place of the analyzer that GRE had meant to be temporary.
@@ -38,7 +38,7 @@ AIBD-0787,organizational,,"The identifications were checked against sequencing, 
 AIBD-0720,personal,2,"Users gained more than peers in silent reading on standardized reading tests, with improvement indexes of 27 for literacy and 38 for basic skills."
 AIBD-0729,personal,1,"Participating homes used 781 kWh less electricity a year, 4.7% of their total use."
 AIBD-0729,societal,1,Electricity use for heating in the pilot homes fell by 12% of heating load.
-AIBD-1150,personal,2,"The reviewers found that accuracy averaged 98.5%, a considerable improvement on their 2012 analysis, but that long delays caused omissions and misreporting."
+AIBD-1150,personal,2,"The reviewers found that accuracy averaged 98.5%, with one fifth of programs below the threshold, while the median delay of 5.6 seconds exceeded Ofcom's 3-second guideline."
 AIBD-0670,personal,1,U.S. sellers sold more to Spanish-speaking buyers after translation.
 AIBD-0670,organizational,2,Exports on eBay to Spanish-speaking Latin America rose by 10.9% in the published estimate and 17.5% to 20.9% in the working paper.
 AIBD-0983,organizational,,"The review had not run when the court ruled, and the order states no saving."
@@ -73,12 +73,12 @@ AIBD-0105,organizational,,The study measured the effect at the level of subscrib
 AIBD-0105,societal,2,"The study measured an 18 percent drop in the probability of deforestation in African areas with subscribers, compared with 2011 to 2016 levels. That is a measured improvement in a result. The authors priced the avoided emissions as an estimate, and they found no effect on other continents."
 AIBD-0166,personal,2,"Residents had hazardous service lines found and replaced, though no study in the sources measures a health effect that can be credited to the model."
 AIBD-0166,organizational,2,The program gained a measured capability to predict pipe materials and prioritize work.
-AIBD-0166,societal,3,"Flint replaced hazardous service lines at 4,419 homes by September 2017. In July 2025 the Natural Resources Defense Council said that nearly 11,000 pipes had been replaced. The model helped prioritize inspections for part of that period."
+AIBD-0166,societal,2,"The model guided inspections for part of the program, the developers wrote that it had less influence on which homes were replaced, and no source isolates its share of the pipes replaced."
 AIBD-0820,personal,2,"Tailgating alerts in the fitted cabs fell from 100 to between 20 and 40 per 100 miles, a measured change in how closely drivers followed."
 AIBD-0820,societal,,"Crash rates for the vehicles in the trial did not show a clear decline, so no gain in road safety is shown."
 AIBD-0212,personal,2,Students had measurable gains in math and Hindi.
 AIBD-0830,organizational,,"The review had not run when the court approved it, so the judgment reports no measured saving."
-AIBD-0049,personal,4,"The authors report named proband outcomes. A diagnosis of CTPS1 deficiency in a 10-year-old girl, admitted to intensive care with life-threatening chicken pox after a seven-year diagnostic odyssey, enabled a curative bone marrow transplantation. A diagnosis of transcobalamin II deficiency, made after a male neonate died at four months with no diagnosis, let his younger brother start weekly hydroxocobalamin injections that prevent metabolic decompensation. The authors do not say whether Exomiser or the applied panels found either variant, so the depth rests on the pilot's reported outcomes without an attribution to the software."
+AIBD-0049,personal,4,"The authors report two proband outcomes. A diagnosis of CTPS1 deficiency in a 10-year-old girl, admitted to intensive care with life-threatening chicken pox after a seven-year diagnostic odyssey, enabled a curative bone marrow transplantation. A diagnosis of transcobalamin II deficiency, made after a male neonate died at four months with no diagnosis, let his younger brother start weekly hydroxocobalamin injections that prevent metabolic decompensation. The authors do not say whether Exomiser or the applied panels found either variant, so the depth rests on the pilot's reported outcomes without an attribution to the software."
 AIBD-0049,organizational,2,"The virtual panel pipeline alone made 322 of the 490 diagnoses that came from single-nucleotide variants or indels, and the panels together with Exomiser's top five candidates made 92% of them. That is a measurable gain in what the diagnostic pipeline could find."
 AIBD-0049,societal,,"A 25% diagnostic yield across 2,183 families is reported for a national pilot. No change across the population is documented."
 AIBD-0265,personal,3,The participant regained a lasting ability to communicate at home. The Utrecht team has not shown that it prevented a separate serious harm.
@@ -88,7 +88,7 @@ AIBD-0058,societal,,"The device was used only in research cohorts, and no source
 AIBD-0834,organizational,1,"The taxpayers met the request with a set that the model chose from about 406,000 documents, and the order states no time or cost saved."
 AIBD-0215,personal,2,More already-committed students completed college enrollment.
 AIBD-0880,personal,2,"Households just eligible for loans were 6.3 percentage points less likely to forgo expenses after a shock, a measured gain in resilience near the cutoff."
-AIBD-0296,personal,5,"McGrath was unresponsive and not breathing during a seizure when the device alerted her mother, who called paramedics. IEEE Spectrum reports that she is alive and well thanks to the timely response, which is a life preserved. The account rests on that single news report."
+AIBD-0296,personal,5,"The teacher was unresponsive and not breathing during a seizure when the device alerted her mother, who called paramedics. IEEE Spectrum reports that she is alive and well thanks to the timely response, which is a life preserved. The account rests on that single news report."
 AIBD-0793,organizational,,"Radiologists saved 71 seconds per case, a third of their reading time, with accuracy that met the non-inferiority margin."
 AIBD-0832,organizational,,"The review had not run, and the judgment gives no time or cost for the review with TAR."
 AIBD-0222,personal,,The authors report cross-validated accuracy of classification (95.6%) on 185 children. They report nothing on what followed for any child.
@@ -115,12 +115,12 @@ AIBD-0219,organizational,1,"In the Sapporo Fire Bureau's survey, more than 70% o
 AIBD-0177,organizational,2,"The developers report that in one pilot week police in Murcia and Málaga detected and closed 25 and 39 false robbery reports. In June of the years 2008 to 2016 the two cities had averaged 3.33 and 12.14 per month. That is a measured gain in a police result. The developers ran the pilot themselves, and researchers with no tie to the project note that the paper's authors give no case counts or confusion matrix."
 AIBD-0177,societal,,"No source measures any effect on insurance fraud, on police workload or on people wrongly flagged."
 AIBD-0097,personal,,No outcome for the more than 7.5 million children targeted is on record in the sources. Any benefit to them is indirect and unmeasured.
-AIBD-0097,organizational,2,"The Red Cross reports that the mapping area fell from 94,080 km² to 2,745 km². It reports that volunteers completed the base map in a fraction of the normal time."
+AIBD-0097,organizational,1,"The Red Cross reports a 97.1% cut in the area to map and a base map finished in a fraction of the normal time, a saving of volunteer time."
 AIBD-0097,societal,,The maps played a supporting role in one national campaign. No measured effect of the maps on vaccination coverage appears in the sources.
 AIBD-0053,personal,,"One man with tetraplegia used his brain signals to control a walking simulation and arm movements with eight degrees of freedom, with the avatar at home and the exoskeleton in the laboratory. The control did not give him everyday mobility."
 AIBD-0053,societal,,"The study involved one participant, and no source reports an effect across a population."
 AIBD-0791,organizational,,"Dermatologists' sensitivity rose from 77.2% to 83.6% only in a reader study of 141 stored images, and in the pivotal study they were blinded to the device, so care did not depend on it."
-AIBD-0621,organizational,2,"Camera operators with no earlier imaging experience obtained a screening result for 96.1% of graded participants, and the software found 87.4% of people with more than mild retinopathy."
+AIBD-0621,organizational,,"The pivotal trial measured the software's accuracy against a reading center and reports no realized gain for the primary care sites, so no depth applies while the benefit is tested."
 AIBD-0621,societal,,"FDA reviewers describe wider access to retinopathy screening in primary care as a potential benefit, and no realized effect on access or vision across the population is reported."
 AIBD-0588,organizational,,KYield names no client and reports no prevented event.
 AIBD-0588,societal,,No prevented catastrophe or measured reduction in losses has been reported.
@@ -142,7 +142,7 @@ AIBD-0622,organizational,,"The 51-minute difference comes from a retrospective t
 AIBD-0314,personal,,"The Delhi Police have not documented a child reunited with a family as a result of the 2,930 matches. The High Court recorded on 22 January 2019 that the software had not cracked any missing-child case."
 AIBD-0314,organizational,,"The police reported 2,930 identities “established” to the ministry. The same police told the court four months later that the software produced only a two percent match."
 AIBD-0314,societal,,"The court's own figures (5,160 children untraced of 19,916 reported in 2016–2018) are the context. No reduction attributable to the software is documented."
-AIBD-0295,personal,2,Dexcom's authors report that time below 54 mg/dL fell from 1.0% to 0.6% for G6 users in their own analysis. The authors of the one independent randomized trial of the alert found a difference only below 2.8 mmol/L. Neither set of authors credits the alert with averting a specific serious event.
+AIBD-0295,personal,2,"Dexcom's authors report that time below 54 mg/dL fell from 1.0% to 0.6% for G6 users in their own analysis. The authors of the one randomized trial of the alert, which Dexcom funded, found a difference only below 2.8 mmol/L. Neither set of authors credits the alert with averting a specific serious event."
 AIBD-0295,organizational,,"No outcome for a payer, clinic or health system is reported."
 AIBD-0627,organizational,,Aided clinicians reached 80.3% sensitivity and 91.4% specificity against 74.7% and 88.9% unaided.
 AIBD-0192,personal,,The sources include neither an outcome for farmers nor a figure for how accurately the app detects fall armyworm.
@@ -151,7 +151,7 @@ AIBD-0611,personal,1,Patients waited 33.1 fewer minutes on average in the presur
 AIBD-0611,organizational,2,Mean absolute error of planned case duration fell from 59.3 to 49.5 minutes.
 AIBD-0167,societal,2,"McClure et al. report that eagle fatalities at the treatment site fell by 63% after automated curtailment, a measurable improvement in a conservation result. They state that deaths were not eliminated. Two U.S. Geological Survey statisticians reanalyzed the data and put the effect at 50%, with an interval that includes an increase, so the size of the effect is disputed."
 AIBD-0167,organizational,,"No outcome for the operator, such as a permit, a cost or a legal risk avoided, is documented in the sources."
-AIBD-0223,societal,2,An attempt to enter the United States on another person's genuine passport was stopped and the traveler removed. No further threat beyond the document fraud is documented.
+AIBD-0223,societal,2,An attempt to enter the United States on a French passport that was not his was stopped and the traveler removed. No further threat beyond the document fraud is documented.
 AIBD-0223,organizational,1,"CBP gained a verified first detection for a system then three days into use at Dulles, and in later releases it reports repeated catches. Gizmodo reported that CBP's annual report for fiscal year 2020 showed no impostor flagged at any airport that year."
 AIBD-0785,organizational,2,"In the study, 86.3% of participants were correctly predicted as responders and given a jaw position that worked."
 AIBD-0605,personal,3,"Residents spent 29.6 fewer minutes on the ground after falls, and lies of more than an hour fell from 31% of fallers to none."
@@ -168,7 +168,7 @@ AIBD-0651,personal,2,"Three hospitals reported average reductions in door-to-pun
 AIBD-1105,personal,,"Drivers stand to gain from steady lane centering, but Consumer Reports rated behavior in tests and reports no crash outcome."
 AIBD-0861,personal,,"Lay users' results matched a reference analyzer in a study at evaluation sites, and no use at home is reported."
 AIBD-0029,organizational,2,"The rangers removed over one thousand snares in a month, where they had reported two or three hundred before. A chi-squared test confirmed that the predictions told high risk from low (p = 0.023)."
-AIBD-0029,societal,3,Over one thousand snares were removed from a sanctuary that is identified as a site for reintroducing tigers. The authors state that each snare “represents the life of one animal potentially saved”. No change in an animal population is documented in the sources.
+AIBD-0029,societal,2,"Over one thousand snares were removed in a month, a measured result. The authors say that each snare potentially saved an animal, and no change in an animal population is documented."
 AIBD-0784,organizational,,"The test met neither accuracy goal, and the study did not measure whether it changed any diagnosis."
 AIBD-0035,organizational,2,"Althingi replaced the first, manual stage of transcription with automatic drafts. Its transcribers graded 77% of the transcripts as Good, and about 640 hours of speeches had been transcribed by November 2019."
 AIBD-0035,societal,,Vísir reported on 4 March 2018 that the recognizer was released under an open-source license. The sources do not show that anyone outside Althingi used it or that the public gained a measured result from it.
@@ -188,18 +188,18 @@ AIBD-0924,societal,1,"The checks brought in DKK 5.3 million for the state by the
 AIBD-0995,organizational,,"Carf's panels decided more appeals than arrived in 2019, but the TCU offers the AI batching only as one possible explanation and gives no figure for its part."
 AIBD-1169,organizational,,The evaluation relays only that ALIA datasets were used in one vulnerability analysis and does not say what they changed.
 AIBD-0615,personal,2,Students in treatment schools scored 0.22 standard deviations higher in math and 0.20 higher in Hindi after 18 months.
-AIBD-0615,organizational,2,The authors estimate a 50 to 66 percent increase in the productivity of school time. J-PAL reports that the in-school model was twice as cost-effective as the earlier after-school model.
+AIBD-0615,organizational,2,The authors estimate a 50 to 66 percent increase in the productivity of school time.
 AIBD-0636,personal,2,Median time in hypotension per patient fell from 32.7 to 8.0 minutes during surgery.
 AIBD-0904,organizational,2,"Every type of warning fell after drivers began receiving alerts, by 34.17% on average for similar dates, a measured change in how the buses were driven."
 AIBD-0904,societal,,"The study counted warnings, and the report gives no crash figures for the test, so no gain in road safety is shown."
 AIBD-0021,personal,2,"A woman with a recent transient ischemic attack received a diagnosis of atrial fibrillation on an electrocardiogram, with rate control and an anticoagulant. Later case reports describe deeper benefits, such as ablation with a defibrillator for ventricular tachycardia and a pacemaker for heart block. This rating covers the woman's case alone."
 AIBD-0005,personal,2,"For the first time, a paralyzed man's attempts to speak were decoded as whole words, about three times faster than he could type with a pointer. The decoding used a vocabulary of 50 words in research sessions."
-AIBD-0230,personal,4,Thorn's chief executive said that a child sold for weeks was recovered and removed from trauma. The sources hold no confirmation of the recovery from anyone outside Thorn.
+AIBD-0230,personal,4,Thorn's chief executive said that a child sold for weeks was recovered. The sources hold no confirmation of the recovery from anyone outside Thorn.
 AIBD-1007,personal,,"The contractors expect that patients will be spared surgical lung biopsy, but no cited study counted biopsies avoided or measured patient outcomes."
 AIBD-0865,organizational,2,"The machine-learning score separated defaults better than bureau scores, with an AUROC of 0.76 against 0.64 and 0.68."
-AIBD-0865,societal,2,"About 30% of the loan portfolio went to merchants that the bureau rated high risk, whom the authors describe as otherwise excluded from credit."
+AIBD-0865,societal,,"The paper reports the score's prediction against the bureau's and the share of the portfolio rated high risk by the bureau, and it reports no realized outcome for society."
 AIBD-0806,organizational,,"The assay tested archived swabs against a cleared assay, and no diagnosis or treatment depended on its results."
-AIBD-0625,organizational,2,Nurses with no echocardiography experience produced exams that cardiologists judged sufficient to assess left ventricular size in 98.8% of patients.
+AIBD-0625,organizational,,The study judged the quality of guided nurse scans against sonographer scans and reports no realized gain in care at the two hospitals.
 AIBD-0625,societal,,"FDA reviewers expect that patients would gain faster access to echocardiography, and no outcome beyond the two-site study has been reported."
 AIBD-0676,organizational,2,"The test measured 98% correct matches and 0.0092% false matches, which lets CBP record departures as biometrically confirmed."
 AIBD-1029,organizational,2,"Inspectors found errors in 34% of the VAT refund returns that the model selected, against 17% under the old selection rules."
@@ -249,10 +249,10 @@ AIBD-1082,organizational,,"CMDE judged that diagnosis improves over CT angiograp
 AIBD-1082,personal,,"CMDE judged that patients can be spared unnecessary invasive angiography and coronary intervention, and the report gives no count of procedures avoided."
 AIBD-0928,personal,,"Trial patients spent more time in the target range, but HbA1c did not change, and HAS judged that the long-term gain is still expected."
 AIBD-0284,personal,1,"The patient learned from her watch, and had confirmed by Holter, that her rhythm had reverted at 19:29. The report records no change in management, so the benefit is informational only."
-AIBD-0108,personal,4,"Both cars stopped so that the oak hit the bonnets, not the cabins, and all eight occupants walked away with bruises at worst. That is a serious harm averted in time."
+AIBD-0108,personal,4,"Both cars stopped so that the oak hit the hoods, not the cabins, and all eight occupants walked away with bruises at worst. That is a serious harm averted in time."
 AIBD-0016,societal,,"Researchers have reported results in bacterial cultures and in mice, and independent laboratories have confirmed them. No outcome outside the laboratory, such as a treated patient or an approved drug, appears in the sources."
 AIBD-0193,societal,3,"FAO states that East African control operations prevented the loss of 4 million tonnes of cereal and 800 million liters of milk. FAO says that they protected the food security of 36.6 million people. The Times quotes FAO's estimate of USD 1.5 billion averted since February 2020. These are estimates for the whole operation, and the AI's handling of data was one part of it."
-AIBD-0193,organizational,2,"FAO received up to 2,500 records a day with nearly 25 percent unusable. PlantVillage's AI removed the unwanted data. Over 240,000 records were collected in a year from scouts and citizens who could not have used the discontinued eLocust3 tablets."
+AIBD-0193,organizational,2,"FAO received up to 2,500 records a day with nearly 25 percent unusable. PlantVillage's AI removed the unwanted data. Over 240,000 records were collected in a year from scouts, government personnel and citizens with smartphones."
 AIBD-0193,personal,,No outcome for an individual farmer is documented.
 AIBD-0109,personal,2,"By his account and by descriptions of the footage, the car moved one driver out of the path of a wrong-way car at about 60 mph before he reacted. The other driver also swerved onto the median, so the sources do not show whether they would have collided. No avoided injury or damage can be measured."
 AIBD-0063,personal,3,"Thirteen patients had early, resectable lung cancer diagnosed and operated on. Seven were stage I and needed no further treatment. A survival benefit is plausible, but the authors do not demonstrate one."
@@ -303,7 +303,7 @@ AIBD-0664,personal,2,Novice and low-skilled agents resolved 34% more issues per 
 AIBD-0664,organizational,2,The firm's agents resolved 15% more issues per hour on average after gaining access.
 AIBD-0093,personal,2,"Each of 138,531 rural beneficiaries received five mobile-money installments of 8,170 CFA (women) or 7,000 CFA (men), according to Table 1 of the World Bank study. The developers' randomized trial reports gains in food security, mental health and self-perceived economic status. A beneficiary told NPR that he paid school fees with the money."
 AIBD-0093,organizational,2,The Government of Togo delivered shock-responsive rural assistance without a social registry. The World Bank documents the model as a reusable case study.
-AIBD-0093,societal,3,"The program reached 138,531 rural beneficiaries. The authors of the Nature evaluation report that exclusion errors were 4 to 21 percent lower than with geographic targeting."
+AIBD-0093,societal,2,"The program paid 138,531 rural people emergency cash from November 2020 to August 2021, and the evaluation reports exclusion errors 4 to 21 percent lower than geographic targeting, a measured improvement rather than a change that lasts."
 AIBD-0892,personal,,"The ministry approved the car after a conformity examination, and no outcome for drivers is reported."
 AIBD-1078,organizational,,The report gives no figures for accuracy or reading time from the maker's pre-market trial and no result from use after approval.
 AIBD-0333,personal,,No litigant outcome is documented.
@@ -313,13 +313,13 @@ AIBD-0735,personal,2,More people with arrhythmias were diagnosed with 14-day Zio
 AIBD-0221,personal,,"The authors report the classifier's accuracy (80.6% recall) and total use (over 200,000 people). They do not report what followed a screening result for any child."
 AIBD-0221,organizational,,No outcome is documented for the 60 participating schools or the other organizations beyond supplying participants.
 AIBD-0823,personal,1,"Beta users could choose captions with no person listening, and they gave four or five stars to 84% of more than 11,000 automatic calls."
-AIBD-0001,personal,3,"One man regained standing and walking, stairs included, and used the device at home on his own after ten years of paralysis. Part of the recovery remains when the device is off."
+AIBD-0001,personal,3,"One man regained standing and walking, stairs included, and used the device at home on his own. Part of the recovery remains when the device is off."
 AIBD-0083,personal,,"The TCU reports an annual total for the program, and no source reports an outcome for any person."
 AIBD-0083,organizational,,"The R$426 million is an annual total of control benefits that the TCU credits to Alice, and the sources show no verified event behind it."
 AIBD-0083,societal,1,"The TCU reports R$426 million in public funds captured in 2021 through control actions supported by Alice, a cost saved for the public purse under its own measurement method. No change beyond that saving appears in the TCU's report or elsewhere in the sources."
 AIBD-0094,personal,2,"Households in selected wards were beneficiaries of the government's COVID-19 cash transfer. The PNAS authors say that disbursement began in mid-January 2021. In its status report, the World Bank records 49,000 beneficiary households as of 15 October 2021 without saying how many had been paid."
 AIBD-0094,organizational,2,"The National Social Safety Nets Coordinating Office stood up an urban registry within months through self-registration by mobile phone in the wards selected with the poverty map. In its appraisal document of November 2021, the World Bank reports over 1.75 million registrations."
-AIBD-0094,societal,,"The 1,163 selected wards, with over 20 million residents, were made eligible, and the 61.7% cut in inclusion errors is an estimate from a simulation. Neither the researchers nor the Nigerian government reports a realized change across that population."
+AIBD-0094,societal,,"The 1,163 selected wards, with over 20 million residents, were made eligible, and the rise in targeting precision from 0.79 to 0.92 at the ward level is the researchers' evaluation of the maps. Neither the researchers nor the Nigerian government reports a realized change across that population."
 AIBD-0121,personal,3,"The authors report that her phantom limb pain fell from 5 to 3 and that her stump pain fell from 6 to 0. Pain no longer interfered with her sleep. Her score on the EQ-5D-5L quality-of-life index rose from 0.23 to 0.63, and she had used the hand daily for more than three years. Karin says that the research “has given me a better life” and that she needs much less medication. The life of one person changed, and the evidence comes from a study of her alone, with no control group."
 AIBD-0638,organizational,2,The discrepancy rate between emergency and radiology readings fell by 17% after the tool began.
 AIBD-0638,personal,1,Mean length of stay in the emergency department fell by 9 minutes.
@@ -344,7 +344,7 @@ AIBD-0042,organizational,,"The sources report a median recovery of 7 versus 8 da
 AIBD-0042,societal,,"WHO strongly recommended baricitinib and the FDA approved it, but the sources do not measure uptake or lives saved across a population."
 AIBD-0691,societal,2,"Dioxin emissions at both incinerators stayed below the 0.1 ng TEQ/m³ target, with Xishan as low as 0.0046 ng TEQ/m³, and a third party verified the levels."
 AIBD-0783,organizational,,"The study was observational and measured accuracy only, so no earlier care for any patient is reported."
-AIBD-0028,personal,3,"After two miscarriages, she had fewer episodes of hypoglycemia and steadier glucose on the device, and the pregnancy reached term without major complications. Whether the device caused the live birth is not shown in the sources."
+AIBD-0028,personal,2,"Hypoglycemic episodes fell from 2.1–2.5 to 1.4 per day on the pump during the pregnancy, a measurable improvement. She returned to injections after delivery, and the sources do not show that the device caused the live birth."
 AIBD-1077,organizational,,"The trial measured agreement with an expert panel, it did not time the reading and the report gives no result from use after approval."
 AIBD-0734,organizational,,"The evaluations measured accuracy, and WHO reports no screening program's results with the software."
 AIBD-0781,organizational,,The study measured accuracy against a contact device and did not count room entries or harms avoided.
@@ -375,7 +375,7 @@ AIBD-0648,personal,2,51.5% of people told their AI result at once attended refer
 AIBD-0867,societal,2,"Communities in the program lost an estimated 8.4 ha less tree cover each in the first year, about half the control average, though the confidence interval includes zero."
 AIBD-0082,personal,,"No individual beneficiary is identified. Patients benefit only indirectly, through preserved hospital budgets."
 AIBD-0082,organizational,2,"The result mattered to the hospitals and to the federal budget. The audits cut R$2,381,663.00 from one auction and about R$5.95 million from another. The CGU reports that the five audits avoided R$8.33 million."
-AIBD-0082,societal,1,"The effect is small at national scale, where federal purchasing is about R$119 billion a year."
+AIBD-0082,societal,1,The effect is small at national scale.
 AIBD-0749,organizational,,Assisting the first reviewer with ExaCT cut total extraction time across 75 trials from 21.6 to 17.9 hours in a simulated workflow. No review team is reported to have relied on the tool in live work.
 AIBD-0993,organizational,,The order approves the approach in one sentence and reports no result from the technology-assisted review.
 AIBD-0268,personal,3,"Physicians identified and treated new heart failure with reduced ejection fraction, and his ejection fraction reached 55% at four months."
@@ -399,16 +399,16 @@ AIBD-0074,organizational,1,"The Belvedere adopted the reconstructions and showed
 AIBD-0074,societal,1,"The public can view a hypothesis of the colors of lost works. In a statement that Jing Daily quotes, Smola said that the result was surprising in areas where no knowledge of the colors existed."
 AIBD-0073,organizational,1,"The orchestra programmed a premiere that a sponsor funded and that was broadcast live, according to its concert page."
 AIBD-0073,societal,1,"The project produced one new performance and recording of a hypothetical completion. Euronews states that humans chose and arranged the generated themes, and the BR-Klassik critic judged that the music sounds conventional."
-AIBD-1034,organizational,,The Court found that the checks prevented overpayments but gives no count or amount.
+AIBD-1034,organizational,1,"The Court found that the agency used checks by monitoring to prevent a number of overpayments, money saved for the EU budget without a stated count or amount."
 AIBD-0043,organizational,2,The laboratories obtained a model that covers roughly twice as much of the scaffold of the human nuclear pore complex. That is a material advance for their research.
 AIBD-0043,societal,2,An atomic model of 70 MDa that covers over 90% of the scaffold is a lasting public resource for research on nuclear transport. The sources show no direct benefit of the scaffold model to patients or the public.
-AIBD-1006,personal,2,"Trial patients with coronary events reached a medical facility in a median of 51 minutes with alarms on and 30.6 hours with alarms off, though fewer deaths or heart attacks were not statistically shown."
+AIBD-1006,personal,,"The 51-minute median comes from the pre-approval ALERTS trial, a tested result, and no outcome from use after approval is reported."
 AIBD-0999,societal,2,"Bell reported more than 1.1 billion blocked calls in 15 months, and the CRTC noted that fraud complaints had fallen, but no measure of losses avoided is reported."
 AIBD-0339,personal,,No patient outcome is documented.
 AIBD-0339,organizational,,"The proof of concept was tested and reviewed, and its use in live bed management does not appear in the sources."
 AIBD-0339,societal,,"The code is open source, and no outcome from reuse is documented."
 AIBD-0365,personal,4,"A 190,000-yuan transfer to a suspected romance scammer was canceled after the reminder. By WeChat's account, that averted a serious financial loss for one person. The man is identified only by surname and province, no police or bank confirmation is reported, and the case date is not given."
-AIBD-0050,personal,2,"The authors report that both patients gained enough prosthetic control for activities of daily living, with the most recent follow-ups at 18 months and 2 years. The authors give no validated functional scores in the abstract, so a lasting change is not established."
+AIBD-0050,personal,3,"Both patients regained activities of daily living with the prosthesis, a capability restored, and it held at follow-ups of 18 months and 2 years."
 AIBD-0050,societal,,"The report covers two patients at one hospital, and no source reports a realized outcome beyond them, so no societal depth can be established."
 AIBD-0084,personal,,The people concerned are owners of pools who pay more tax. The sources show no benefit to a person from the scheme.
 AIBD-0084,organizational,2,"The communes concerned received about 10 million euros of extra land-tax revenue for 2022, a measurable gain that the Cour des comptes and the Sénat report restate."
@@ -416,14 +416,14 @@ AIBD-0084,societal,,The tax administration and the Cour des comptes report no ef
 AIBD-0096,personal,,The authors report the yield of screening for the group. They do not document an individual's outcome or the results of treatment.
 AIBD-0096,organizational,2,"The organization that ran the screening reports a number needed to screen of 44.9 for portable X-rays with CAD in six states in 2022. For its other main strategies of case finding, the number ranged from 49.0 to 388.5. That is a measured gain in case finding."
 AIBD-0096,societal,2,"The organization reports that the program diagnosed 2,337 people with TB in hard-to-reach communities (2,481 in its tables) and that 97.3% started treatment, a measurable result in case finding. It reports no cure rates or effects on transmission."
-AIBD-0199,organizational,1,"The researchers measured mean herbicide savings of 28.4% to 62.4% across the three application timings, with weed control comparable to broadcast spraying and no yield increase. These savings lower the grower's input costs."
+AIBD-0199,organizational,,"The savings were measured on research plots in a randomized trial, and no grower or organization is reported to have received them in this benefit."
 AIBD-0199,societal,,"Less herbicide was sprayed in the trials, but they did not measure an environmental outcome off the plots."
 AIBD-0487,personal,2,"AIZEN reports that partner lenders financed more than 20,000 electric two-wheelers, which gave borrowers access to a vehicle and to credit. Neither AIZEN nor the partner lenders have published evidence of higher income or lasting financial security for borrowers."
 AIBD-0487,organizational,2,"AIZEN reports that CreditConnect-EV lets partner lenders approve loans for electric two-wheelers at scale, which traditional scorecards made infeasible. The profitability of these loans and any fall in defaults are unreported."
 AIBD-0487,societal,,AIZEN intends to lower pollution from transport. The sources include no measure of the emissions that the financed vehicles avoided.
 AIBD-0511,organizational,,"The institute states that capacity 'can reach' 60–80% more with a single-layer layout and about 50% more for a lot of about 100 spaces. Both are conditional estimates, and no garage reports a realized gain."
 AIBD-0511,personal,1,"The institute describes easier parking and vehicle retrieval in garages that already use the system. The claim is qualitative, and no source measures a change in waiting time."
-AIBD-0705,organizational,,The auditors found that risk events fell but gave no count of the events or of any harm avoided.
+AIBD-0705,organizational,2,"Independent auditors validated the tool's reports and found that AI event correlation had reduced CFE's cyber risk events in 2022 and gave it centralized monitoring, though they give no count."
 AIBD-0911,organizational,1,"PNNL estimated that load shedding on the predicted days cut the building's capacity and transmission charges by $20,000 for 2022, a cost saving."
 AIBD-0916,organizational,2,"The audit office found that the payment rate rose from around 50% to 90% in 2022, the city's target, after the scan cars came into use."
 AIBD-0918,organizational,2,"The first round approved 60,471 accountability reports, about 20% of the FNDE's backlog, though 66% of the school-meal reports still awaited analysis."
@@ -438,8 +438,8 @@ AIBD-0519,organizational,2,"Broadcasters gained continuous AI sign language outp
 AIBD-0903,organizational,2,"Event rates fell after alerts went live at five of six agencies analyzed, a measured change in how operators drove."
 AIBD-0903,societal,,"The evaluators measured warning events, and the report gives no crash figures, so no gain in road safety is shown."
 AIBD-0873,organizational,,"The approved version was tested on stored trial data, and no diagnosis depended on its results."
-AIBD-0873,personal,,"Trial patients felt less pain with the earlier device's throat photo than with the swab, but no patient has yet been diagnosed with the approved version."
-AIBD-0164,organizational,,The Swiss Plasma Center gained a controller that the authors call a notable advance for tokamak feedback control. The controller reduced the design effort for new configurations and made new droplet experiments possible.
+AIBD-0873,personal,,"Trial patients felt less pain with the earlier device's throat photo than with the swab, but no patient had been diagnosed with the approved version at the time of the review."
+AIBD-0164,organizational,2,"The Swiss Plasma Center ran TCV with the controller, which held four shapes including droplets that would otherwise have needed great design investment, a measurable capability gain."
 AIBD-0164,societal,,No societal outcome beyond research progress is documented.
 AIBD-0649,personal,2,Patients examined with the algorithm received a correct diagnosis in 53.9% of cases against 43.8% without it.
 AIBD-0649,organizational,2,Non-dermatology trainees diagnosed 54.7% of lesions correctly with the algorithm against 30.7% without it.
@@ -447,7 +447,7 @@ AIBD-0581,personal,5,The woman survived a life-threatening hemorrhage and regain
 AIBD-0610,personal,2,"Patients with large vessel occlusion reached thrombectomy 11.2 minutes sooner after activation, and their functional outcomes did not differ."
 AIBD-0610,organizational,1,Stroke teams cut door-to-groin and CT-to-treatment intervals across four centers.
 AIBD-0027,personal,4,"A 57-year-old woman learned early that she had large vessel vasculitis, which the authors call a potentially severe disease, after a chest CT had been read as normal. Treatment brought her resting heart rate back to normal within ten days and her inflammatory markers within two weeks. Four weeks after treatment began, she reported that she was well. A serious condition was resolved in time."
-AIBD-0179,personal,,"The counts of flagged messages and blocked numbers are totals for all users, and the police have documented no loss that an identifiable user avoided."
+AIBD-0179,personal,1,"From March 2022 to November 2023 the app flagged about 5 million text messages to users as potential scams, a filtering convenience, and no avoided loss is documented."
 AIBD-0179,societal,,The government has not credited a measured change in scam losses to the app.
 AIBD-0351,personal,,"Recipients received cash, but the Malawi researchers report no gain for recipients that the targeting by phone data itself produced."
 AIBD-0351,organizational,1,"Drawing on GiveDirectly's 2023 synthesis, the World Bank authors report that the hybrid approach cost about half as much per added enrollee as in-person surveys alone. That is a cost saving for the program."
@@ -458,16 +458,16 @@ AIBD-0366,personal,,"The hospital reports a successful implantation, with the st
 AIBD-0369,societal,2,"The stop removed 112 grams of crack cocaine and a semiautomatic pistol from a driver who, per a prosecutor filing that Forbes cites, had made nine trafficking-pattern trips. He pleaded guilty, received 48 months and agreed to a $34,000 forfeiture, per the court docket. The sentence was later commuted, and the sources show no measured effect on drug supply or violence."
 AIBD-0660,organizational,3,The laboratory solved a structure that two years of standard methods had failed to solve.
 AIBD-0112,societal,4,"Police seized 52.5 kg of explosive, assessed as PETN-RDX, before anyone could use it. The minister said that the target was Istanbul. The court convicted five men of supplying weapons to a terrorist organization. The harm averted could have been an attack with many casualties, though reporters did not establish the plan."
-AIBD-0112,organizational,2,"The Hakkari police got a lead that ended in a seizure, five arrests and five convictions. The minister counted it among 15 similar actions that police had stopped that year."
-AIBD-0807,personal,2,Patients at risk of neutropenia gained a home test whose counts correlated with trained operators' counts at 0.97 for white cells and 0.95 for neutrophil percentage.
-AIBD-1131,personal,4,Children in the score group had 21 percent fewer injury admissions and were 60 percent less likely to fall in the top one percent of the harm index.
+AIBD-0112,organizational,2,"The Hakkari police got a lead that ended in a seizure, five arrests and five convictions."
+AIBD-0807,personal,,"The at-home study measured agreement with trained operators on the predicate device, and no use of the results in patients' care is reported."
+AIBD-1131,personal,4,"Children in the score group had 21 percent fewer injury admissions, a result significant only at the 10 percent level."
 AIBD-1131,organizational,2,Screening teams shifted investigations toward children more likely to be harmed without changing the rate of investigation.
 AIBD-1171,organizational,2,"The evaluators credit the chatbot and WhatsApp with enhanced remote and real-time monitoring, transparency and communication across 336 field visits, without separating the chatbot's share."
 AIBD-1171,personal,1,"Project participants could submit complaints and get answers to queries through the chatbot and WhatsApp, a convenience whose uptake the review does not count."
 AIBD-0512,personal,,"Callers and recipients are meant to exchange richer information, and no use has been reported."
 AIBD-0512,organizational,,"Telecom providers and content producers are meant to deliver new services, and no operational benefit has been reported."
-AIBD-0317,personal,3,"The vendor describes customers whose social-engineering transfers of EUR 125,000 and USD 170,000 were blocked, a loss averted for each. No customer is named or independently documented."
-AIBD-0317,organizational,4,"The vendor states that a USD 500,000 (KSh 58 million) ATM fraud was stopped with arrests. It says that payments up to USD 850,000 were blocked before funds left client banks. The losses averted are serious if the account holds. Customers, banks and dates are not given."
+AIBD-0317,personal,4,"The vendor describes customers whose transfers of EUR 125,000 and USD 170,000 to fraudsters were blocked, a serious loss averted in time for each, on the vendor's account alone."
+AIBD-0317,organizational,4,"The vendor states that a USD 500,000 (KSh 58 million) ATM fraud was stopped with arrests. It says that payments up to CHF 1,000,000 were blocked before funds left client banks. The losses averted are serious if the account holds. Customers, banks and dates are not given."
 AIBD-0317,societal,,The vendor gives no aggregate figure that a regulator has verified.
 AIBD-0996,personal,,"The FCC measured accuracy and delay on test calls and later found that the service met its minimum standards, but it reports no outcome for users."
 AIBD-0045,organizational,,Independent groups at Texas A&M University and the University of Waterloo reused the enzyme in their own laboratory systems. The sources report bench work and no production deployment.
@@ -484,16 +484,16 @@ AIBD-1008,societal,,"The 22% lower odds of death are an exploratory, adjusted re
 AIBD-1008,organizational,2,Patients under the mandate were five times more likely to receive a case review and received on average 0.5 more risk mitigation strategies.
 AIBD-1224,personal,1,"Speakers can translate text to and from their languages in a free tool, a convenience, and the sources report no measured use or outcome."
 AIBD-1224,societal,,"An activist and a scholar expect the service to support the languages' survival, and no source measures an effect on any language."
-AIBD-0079,personal,3,A 29-year-old had his occluded artery reopened within 60 minutes of arrival and reports being alive with no deficits. The AI's share is the time saved in fast-tracking the cath lab team after EMS had already pre-notified the hospital and the team was ready. The thrombectomy was the treatment.
+AIBD-0079,personal,4,"A large vessel occlusion was reopened within 60 minutes of arrival and the patient reports no deficits, a serious condition resolved in time."
 AIBD-0079,organizational,2,Dr Mehta states that the platform simplifies the work and saves time compared with the old need to open scans at workstations.
 AIBD-0113,personal,,"Psychologists from the prosecutors' office visited the 17-year-old and recommended urgent psychological support. Whether he received it, or anything else came of the visit, is not known."
 AIBD-0113,societal,,"Officials checked the public post within a day and found no weapon or plan. Police said that many such alerts turn out to be jokes, so the sources do not show that harm was prevented."
 AIBD-0321,personal,,"The authors report extensive testing with visually impaired school children, and the need that prompted the work: only three books in Irish Braille. They identify no pupil, date or measured gain."
-AIBD-0321,societal,,"Access to written Irish for the 4,701 school-age blind or visually impaired people cited from the 2016 census is the stated aim. No figure for uptake is given."
+AIBD-0321,societal,,Access to written Irish for blind and visually impaired pupils is the stated aim. No figure for uptake is given.
 AIBD-0031,personal,,"The effects are averages across treated households, and the sources show no single household whose outcome changed because of an alert."
 AIBD-0031,societal,2,"Across treated village councils under severe flooding, households were 12.7 percentage points less likely to have their home flooded and borrowed less after floods. In their four-season analysis, the authors find no effect on physical health."
 AIBD-0114,personal,4,"The hospital that treated her described timely treatment of a severe infection, followed by her recovery and discharge. It has not shown that she would otherwise have died."
-AIBD-0643,personal,4,Nineteen women had breast cancer found at screening only because the AI flagged their examinations (269 cancers with AI against 250 without).
+AIBD-0643,personal,2,"The sources report 19 more cancers found at screening with the AI as a third reader and no result for stage, interval cancers or survival."
 AIBD-0069,personal,2,"Patt reports that Lee confirmed a photograph of his mother at Bergen-Belsen and then found photographs of her extended family. Fixler found images of herself, her aunt and her cousin (NPR, BBC)."
 AIBD-0069,organizational,1,"The BBC reports that Fixler's recognition doubled the number of identified people in one US Holocaust Memorial Museum photo, from three to six. No formal update of the archive for the Lee photograph is recorded in the sources."
 AIBD-0069,societal,1,Two documented identifications among the millions of unidentified faces that the tool indexes are a small benefit to society.
@@ -501,7 +501,7 @@ AIBD-0182,organizational,,No realized output of the algorithm is documented.
 AIBD-0182,societal,,No recovered revenue attributable to VeRa is documented.
 AIBD-0068,personal,3,"Targeted therapy for leptomeningeal disease started a week earlier and whole-neuraxis radiotherapy was avoided, with MRI improvement at two months. No source reports a survival benefit."
 AIBD-0068,organizational,1,The slide-based prediction let the team choose a single rapid PCR test on limited tissue without waiting for sequencing.
-AIBD-0809,personal,2,"Lay users with no training tested their own urine, and 92.7% of their ACR results matched a trained operator's."
+AIBD-0809,personal,,"The method comparison measured lay users' results against a trained operator's on the predicate device, and no use of the results in their care is reported."
 AIBD-1074,organizational,,"The lower miss rate was measured in the maker's pre-market trial, in which every patient also had the other exam, and the report gives no result from use after approval."
 AIBD-0004,personal,2,Pat Bennett communicated from a large vocabulary at the pace of conversation in research sessions. The team called the work a proof of concept. The authors of a study in 2025 report that she still communicated mainly with a writing board or an iPad.
 AIBD-0896,organizational,,"The savings are modeled because COVID-19 rules kept the optimized schedules from running, and the subscription cost more than the modeled utility savings."
@@ -521,7 +521,7 @@ AIBD-0022,personal,4,"The watch's 88% reading, against 97% on hospital oximetry,
 AIBD-0172,societal,,No German fatality data are documented.
 AIBD-0172,organizational,,No operator or site outcome is documented.
 AIBD-0117,personal,2,"One patient had a diffuse glioma found during her scan. She had a biopsy the next day and was referred for immediate treatment of the cancer. The authors report no follow-up and no change in her outcome. The words “saved a life” come from the headline of Anadolu Agency, and the authors make no such claim."
-AIBD-0311,personal,,Crisis messages from patients were triaged by a crisis specialist within minutes on median. The authors report no clinical outcome for any patient and list hospitalization and emergency department use as future work.
+AIBD-0311,personal,1,"Patients' crisis messages reached a crisis specialist in 8 to 13 minutes on median instead of hours, a measured time gain. No clinical outcome is reported."
 AIBD-0311,organizational,2,"In their study, the company's authors report that the daily median time from message to triage by a crisis specialist fell to 8 to 13 minutes. Before deployment it averaged over 9 hours. The baseline comes from Cerebral's internal analysis, and the sources show no independent measure of either figure."
 AIBD-0367,organizational,2,"NRW police resolved an amok-threat email address to a person in fractions of a second. They identified 51 of about 100 shooting participants at about 20 minutes each, per the ministry and a Duisburg investigator. No comparison with conventional methods and no charges or convictions are reported."
 AIBD-0367,societal,,"Siegen's administration and public had the author of a threatened amok attack identified. Neither the police nor the ministry says whether the threat was credible, whether the person was charged or what harm was averted."
@@ -530,13 +530,13 @@ AIBD-0411,organizational,2,PANDA exceeded mean radiologist sensitivity by 34.1% 
 AIBD-0411,societal,,Lives saved and benefits from population screening are possible later effects. The authors of an independent 2026 review report that no study shows an effect on stage at diagnosis or survival.
 AIBD-0645,personal,3,More veterans had precancerous adenomas found and removed. Detection rose from 50.7% to 54.9% of colonoscopies at equipped facilities.
 AIBD-0645,organizational,2,"The VA raised adenoma detection, a core measure of colonoscopy quality, by 4.2 percentage points without a change in withdrawal time."
-AIBD-0020,societal,,"Researchers in algebraic complexity gained new explicit decompositions, and Kauers and Moosbauer improved the 5x5 one within a week. The gains hold only over particular fields. In Nature, the authors report the 4x4 improvement for matrices “in a finite field”. Kauers and Moosbauer give the 5x5 record of 96 multiplications over the field with two elements."
+AIBD-0020,societal,2,Independent mathematicians report that the upper bound for 4x4 matrices over the field with two elements fell from 49 to 47 and built on the 5x5 scheme.
 AIBD-0780,organizational,,"Most anesthesiologists in the study judged that the device helped them find the correct view, and no measured gain in block results is reported."
 AIBD-1083,organizational,,"Agreement was measured against a reading panel in the maker's pre-market trial, and the report does not say that the prompts guided care."
 AIBD-0994,organizational,1,"Huntsman's review met the special master's benchmark for a reasonable search, so Huntsman did not have to resume it."
 AIBD-0228,societal,3,"INEC's chairman reported that 2,780,756 ineligible entries (22.6% of new registrations) were removed from the register used for the 2023 general election. BusinessDay disputed completeness and regional balance, and the European Union observers reported that underage registrants remained in unknown numbers."
 AIBD-0228,organizational,2,INEC obtained a cleaned register and identified 23 of its own officers for sanctions over multiple registrations.
-AIBD-0098,personal,2,"The Philippine Red Cross reports that 78 households had their roofs and walls reinforced before landfall and that the kits mitigated the wind's impact. The claim rests on its own post-storm survey, which has no comparison group."
+AIBD-0098,personal,2,"The Philippine Red Cross reports that 78 households had their roofs and walls reinforced before landfall. The claim rests on its own post-storm survey, which has no comparison group."
 AIBD-0098,organizational,1,"This was the first completed activation of the Philippine typhoon protocol. In the final report, the Red Cross records lessons about lead time and the limits that the weather set."
 AIBD-0098,societal,,The 390 people reached are the members of the reinforced households. The Philippine Red Cross reports no outcome beyond them.
 AIBD-0790,personal,,"The tests used stored recordings, so no patient in cardiac arrest was treated."
@@ -556,7 +556,7 @@ AIBD-1177,personal,2,"Survivors of violence got information, referrals and couns
 AIBD-1177,organizational,2,"The evaluators found that the chatbot services enabled broader reach to vulnerable, at-risk populations beyond hotlines that could not serve several callers at once."
 AIBD-0067,personal,2,The trial measured a large increase in completed diabetic eye exams. The trial's authors do not show that the extra exams improved vision or prevented blindness.
 AIBD-0579,personal,5,"The authors report lower mortality after deployment. The comparison comes from a model built on historical data, with no randomization."
-AIBD-0642,personal,4,"Women in the AI group had 338 cancers found at screening against 262 in the control group, and the extra invasive cancers were mainly small and node-negative."
+AIBD-0642,personal,2,"The sources report more cancers found at screening, mainly small and node-negative, and no significant change in interval cancers, which is a measurable improvement in a result."
 AIBD-0642,organizational,2,"The screening service needed 61,248 screen readings in the AI group against 109,692 in the control group, a 44.2% reduction."
 AIBD-0927,organizational,,"EMA and AQuAS assessed predictions on past cohorts and trials, and neither reports a trial result or a patient's care that depended on iBox."
 AIBD-0264,personal,2,Newly implanted patients had better speech intelligibility at 3 and 12 months. Experienced users had median gains of 10% in speech scores.
@@ -575,7 +575,7 @@ AIBD-0336,societal,,"No societal outcome is reported beyond the cases with reven
 AIBD-0472,organizational,2,"The developer reports that municipal pilots inspected more than 30 km of water mains. The project gathered 109,350 labeled records, which passed a quality check within the government data project. Neither the developer nor the partner towns have shown that pipeline failures were avoided."
 AIBD-0472,societal,,"More reliable water service and fewer leaks are intended, and the developer reports no measured effect on public resources or safety."
 AIBD-0522,personal,2,"vivo reports offline speech, vision and sign language assistance that expands communication and access to information. It gives user numbers but reports no measure of whether the gains last."
-AIBD-0522,societal,,vivo asserts a 90% reduction in cloud energy use. It gives no measure of the total energy use of devices and cloud or the net environmental effect.
+AIBD-0522,societal,,vivo asserts a reduction in cloud energy use. It gives no measure of the total energy use of devices and cloud or the net environmental effect.
 AIBD-0617,personal,2,Students assigned to the chatbot were four percentage points more likely to earn an A or B in the course.
 AIBD-0690,organizational,2,"Accountants checked 31.9% fewer requests and found errors in 8.53% of AI-analyzed requests, against 1.65% in the year before TAAP."
 AIBD-0694,societal,3,"The evaluator found that cancelling over 21,500 km² of farmland from the hazard database in 2023 let farming resume quickly."
@@ -583,7 +583,7 @@ AIBD-0694,organizational,2,The evaluator found that AI-enabled approaches suppor
 AIBD-0695,personal,2,"Dropout among students in the treatment schools fell by 0.92 percentage points, about half of the 1.58 percent average."
 AIBD-0700,organizational,,The evaluator found that the monitoring's scope widened but gives no count of radio items captured or acted on.
 AIBD-0700,societal,,The disinformation found during the elections is not attributed to the application.
-AIBD-0701,societal,2,"The iVerify team processed 265 fact-checking requests during a tense election, though no effect on public discourse is measured."
+AIBD-0701,societal,,The evaluator says that the 265 fact-checks supported a fact-based public discourse but measures no effect on it.
 AIBD-0923,organizational,,The evaluator reports that findings reached the commission but gives no count of posts flagged or of actions that the commission took.
 AIBD-0923,societal,,"No change in misinformation or hate speech around the 2023 local elections is measured, and the public did not receive the data."
 AIBD-0932,organizational,1,"The study puts the cost of reading an X-ray at INR 30 with qXR and INR 22 with Genki, against INR 100 for a radiologist."
@@ -626,13 +626,13 @@ AIBD-0338,organizational,,"The IRS gives no results from the AI-selected examina
 AIBD-0338,societal,,No revenue or fairness outcome is attributed to the models.
 AIBD-1069,organizational,,"Endoscopists found more polyps with the software in the maker's pre-market trial, and the report gives no outcome of care."
 AIBD-1069,personal,,"Patients in the software group had more of their polyps detected, but the report gives no outcome for their health."
-AIBD-0297,personal,1,"In the Cornwall evaluation 13 of 14 carers reported peace of mind, and clinicians changed the seizure management strategy for all but one participant. No outcome such as seizure control or injury is measured."
+AIBD-0297,personal,1,"Acceptability was 93% in the Cornwall evaluation, and the authors report improved communication and care planning. No seizure control or injury outcome is measured."
 AIBD-0297,organizational,2,"Nelli recorded 707 possible seizure events in 14 people, 247 of them unheard or unrecognized by carers, and the authors report improved communication and care planning."
 AIBD-0277,personal,,The sources name no one who benefited.
 AIBD-0277,organizational,,No deployment has been reported.
 AIBD-0277,societal,,No event can be credited to the models.
 AIBD-0618,personal,,"Participants given ChatGPT hints showed a 17.00 percent learning gain from pre-test to post-test, statistically significant against a no-hint control."
-AIBD-0233,societal,3,The prosecutor's office reported that a gang responsible for at least eight accredited violent robberies was detained and brought before the Noveno Juzgado de Garantía. Four adults went to preventive detention.
+AIBD-0233,societal,2,"Prosecutors report that ten suspects were detained and that a court accredited eight robberies, with four adults in preventive detention. No verdict is reported."
 AIBD-0233,organizational,2,Prosecutors state that the tool replaces review of hundreds of case files with a short list of proposed links.
 AIBD-0171,societal,,No avoided blackout or deployment is documented.
 AIBD-0171,organizational,,No grid operator use is documented.
@@ -659,7 +659,7 @@ AIBD-0355,personal,1,"CSE reports that some farmers in Sehore, Vidisha and Bhopa
 AIBD-0355,organizational,,District officials told CSE that claims for similar crop losses had become more consistent since the technology came in. They gave no figures and also called the process opaque. The PIB states that settlement is faster and gives no figures.
 AIBD-0355,societal,,"The PIB reports adoption by nine states, and CSE later reports twelve. No outcome at scale is documented. Down To Earth reports that payouts in three districts fell sharply between 2018 and 2024."
 AIBD-0276,personal,,The sources do not name a beneficiary.
-AIBD-0276,organizational,,Bradford Museums exhibited the painting as a possible Raphael and extended the display “due to popular demand”.
+AIBD-0276,organizational,1,"Bradford Museums showed the painting at Cartwright Hall from July 2023 and extended the display to 3 January 2024 due to popular demand, a small gain for the gallery."
 AIBD-0276,societal,,The attribution is not accepted by scholars or institutions.
 AIBD-0044,organizational,,"The screen predicted a specific candidate, Tmem81, that the laboratory then validated genetically and biochemically. This was a measurable research result for that group."
 AIBD-0044,societal,,The laboratory identified a fertilization factor that vertebrates share and that male zebrafish and mice need to be fertile. It helps answer a long-standing open question. The laboratory has not reported a clinical application.
@@ -688,12 +688,12 @@ AIBD-0479,personal,,Lower exposure of staff to hazardous materials is intended. 
 AIBD-0341,personal,,No individual outcome is documented.
 AIBD-0341,organizational,,This is a general benefit. The sources show no forecast office that used the GraphCast run for Lee in its products.
 AIBD-0341,societal,,This is a general benefit. No public-safety decision has been linked to the run.
-AIBD-0122,organizational,2,"U.S. Customs and Border Protection made a seizure and two arrests from a flag that, Mayorkas said, took 1.4 seconds. The Department of Homeland Security opens both its page on artificial intelligence and its roadmap of 2024 with the case, as its example of artificial intelligence in use."
+AIBD-0122,organizational,2,"U.S. Customs and Border Protection made a seizure and two arrests from a flag that, Mayorkas said, took 1.4 seconds. The Department of Homeland Security opens both its page on artificial intelligence and its roadmap of 2024 with this seizure, as its example of artificial intelligence in use."
 AIBD-0122,societal,,"The seized load did not reach U.S. streets, but the drug has not been named, and the border agency has not shown which harm the seizure averted."
 AIBD-1090,organizational,,"The accuracy was measured in the maker's pre-market trial, and the report does not say that the software's results guided any patient's care."
 AIBD-1005,personal,2,"Traficom found from program samples that the subtitles became clear enough to meet the legal requirement, with names, numbers and foreign words spelled correctly and sentences punctuated."
 AIBD-0803,organizational,,"The study measured agreement with manual microscopy, and no gain in time or accuracy at any laboratory is reported."
-AIBD-0665,personal,2,"Consultants below the average baseline score raised their task performance by 43%, and those above it by 17%."
+AIBD-0665,personal,,"The 43% and 17% gains are scores on tasks written for the experiment. No source reports a realized gain for the consultants, so unrated_because should carry the tested wording."
 AIBD-0665,organizational,,"The tasks were designed for the experiment, and no outcome for Boston Consulting Group as a firm has been reported."
 AIBD-0034,personal,1,"Participants who are identified by number report that they identified airport gate numbers, recognized their surroundings, located a dropped hair tie and read a check on their own. The results are small and self-reported, and the authors of the same papers document frequent errors."
 AIBD-0266,personal,,The participant communicated in text at a median 10.2 characters per minute in laboratory sessions that totaled 626 minutes over 90 days. No home use is reported.
@@ -725,7 +725,7 @@ AIBD-0698,organizational,,The office states the effects on case handling without
 AIBD-0698,personal,,"No count of fast-tracked cases from vulnerable groups, including women, is given."
 AIBD-1066,organizational,,"Detection was measured in the maker's pre-market trial, and the report gives no outcome of care for any patient."
 AIBD-1089,organizational,,"The accuracy was measured in the maker's pre-market trial, and the report does not say whether the prompts changed any patient's care."
-AIBD-0482,organizational,2,"In SmartMore's model-training example, IndustryGPT achieved 100% accuracy and recall, against 50% accuracy and 66.7% recall for manual training, in less training time. Production revenue remains unmeasured."
+AIBD-0482,organizational,,"The accuracy and recall figures come from a single demonstration example, a test, and no customer result from IndustryGPT has been reported."
 AIBD-0417,organizational,2,The Busan Facilities Corporation pilot reportedly enabled recycling collection in previously unsorted public spaces and improved material separation.
 AIBD-0417,societal,,"Seoreu describes how the bin should help the environment and gives no measured change in emissions, pollution or ecosystems for the pilot."
 AIBD-1088,organizational,,"The software's accuracy was measured in the maker's pre-market trial, and the report does not say that its results guided any patient's care."
@@ -739,24 +739,24 @@ AIBD-0399,societal,,Narrowing urban-rural gaps in eye care is an intended benefi
 AIBD-0183,organizational,1,"The Cour des comptes states in December 2025 that efficiency gains in control programming are established. It gives no measured gain in results attributable to data mining, and it reports that these controls accounted for 13.8% of the tax and penalties recovered in 2023."
 AIBD-0183,societal,,The Cour des comptes attributes 13.8% of the tax and penalties recovered in 2023 to controls from mass data cross-matching. It judged that the method's efficacy still needs support. It reports no gain for the public from data mining.
 AIBD-1075,organizational,,"The time saving was measured on stored images in the maker's pre-market trial, and the report gives no result from use after approval."
-AIBD-0261,personal,,"The case concerns the release of a dataset, and the sources name no beneficiary."
+AIBD-0261,personal,,"The benefit concerns the release of a dataset, and the sources name no beneficiary."
 AIBD-0261,organizational,,"The Materials Project hosts the structures, and its team used 44,651 GNoME entries as a pool for screening. No independent report of a useful new material made from them appears in the sources."
 AIBD-0261,societal,,"No technology built on the predictions appears in the cited sources, and independent researchers dispute their novelty."
 AIBD-0227,societal,2,"Unlawful shooting near a public street was interrupted and a charge filed, according to the police chief as quoted in the vendor's release."
 AIBD-0227,personal,,No individual beneficiary or averted injury is documented.
-AIBD-1038,organizational,1,The assessors found that the model allows rapid analysis of an average of 971 383 reports a year but gave no measure of the time saved.
+AIBD-1038,organizational,1,"The assessors found that the model allows rapid analysis of an average of 971,383 reports a year but gave no measure of the time saved."
 AIBD-0038,personal,2,"The patient received a unifying genetic diagnosis at 44 for symptoms present since infancy, which led to screening for related complications. The authors write that he was diagnosed at a very advanced stage with a poor prognosis and that no specific treatment exists, so no change in his health is reported."
-AIBD-0775,organizational,2,"AI-assisted reads took 3 minutes and 50 seconds on average, against 33 minutes and 42 seconds, with diagnostic yield of 73.7% against 62.4%."
+AIBD-0775,organizational,,"The time saved and extra yield were measured in study reads at another center, and no center is reported to have used them in care."
 AIBD-1147,personal,2,"The study reports that the station's automatic captions fell below 98% in only 1/24 samples in 2020-2021, after reaching 98% in only 8/31 samples in 2019-2020."
 AIBD-1148,personal,2,The study reports that the broadcaster's automatic captions went from too variable and slightly below the standard in 2019-2020 to consistently above it in 2020-2021.
-AIBD-0015,societal,,"Mathematicians gained an explicit cap set of size 512 in dimension 8 and an improved asymptotic bound. Davis, who was not an author, judged that the results are moderately interesting mathematically."
+AIBD-0015,societal,2,"The dimension-8 cap set rose from 496 to 512 and the asymptotic bound from 2.2180 to 2.2202, results that independent surveys list and later work built on."
 AIBD-1127,organizational,2,Forecasters who evaluated the model said that it increased their confidence in warning decisions and their lead time to severe hazards.
 AIBD-1127,societal,,"No source measures how much earlier the public was warned, and GAO says that more research is needed to quantify the effect on lead time."
 AIBD-0220,personal,3,"Ramage, who is blind, now reads street signs, menus and scenes on his own and relies on the glasses each morning, which restores a capability that he had lost. He says that buses once drove past him at a stop and that the glasses bring a level of comfort that he had not had in years."
 AIBD-0036,societal,,NOAA requested a voluntary speed reduction for an endangered species over a defined area for about 15 days. No source shows that a strike was averted or that vessels complied.
 AIBD-1172,organizational,2,"The evaluators found that the tool lets the department capture and digitally record road conditions and act on defects, on a pilot that the Bank's report sizes at 1000 km, while it covers only road condition data."
 AIBD-0104,personal,,The trial measured average vehicle speeds and modeled injury risk. No driver or bird is reported as spared in a specific event.
-AIBD-0104,organizational,2,"During the trial the Department of Transport and Main Roads had a working detector at one crossing. The developers report a recall of 0.97 and a precision of 0.77 during the on-road trial, and the department said that the equipment would be removed after the trial."
+AIBD-0104,organizational,2,During the trial the Department of Transport and Main Roads had a working detector at one crossing. The developers report a recall of 0.97 and a precision of 0.77 during the on-road trial.
 AIBD-0104,societal,2,"Drivers slowed by an average of 6.30 km/h and 5.06 km/h at two sites when the sign showed a warning. The department's claim of 31 percent fewer fatal crashes is not shown in the project summary, and a lower speed limit for roadwork may also have cut deaths."
 AIBD-0127,personal,5,"Coates was critically ill, too sick for a transplant and facing hospice care. He reported that he began responding to the drugs within one or two weeks, later received a stem cell transplant and reached full remission five months after it. By his account, the treatment preserved his life. Neither Every Cure nor his treating physician has separated what the AI contributed from clinical judgment, the drugs, supportive care or the transplant."
 AIBD-0263,personal,3,"Arbaugh reports computer control “just like anyone else can”. He still used the implant 28 months after surgery, and an earlier report puts his use at about 10 hours a day. Conley operates a robotic arm for light switches and doors."
@@ -775,7 +775,7 @@ AIBD-0426,societal,,Neither Huawei nor Huadian has published a measure of wider 
 AIBD-0447,organizational,2,China Mobile reports that the monitored area grew from 120 to 330 square kilometers and that detection and enforcement efficiency improved by 45%.
 AIBD-0447,personal,,"China Mobile reports that coastal enforcement deployments fell by 50%, which is an operational gain for the reserve. No outcome for any individual member of staff or any other person has been reported."
 AIBD-0447,societal,2,China Mobile reports that wildlife distribution widened by 60% and that collision-related animal deaths fell by 97%. It gives no underlying counts and no causal controls.
-AIBD-0449,organizational,1,China Telecom reports more than 900 million kWh in annual energy savings across its network. It also reports that deployment and operating costs for the energy system fell by 90%.
+AIBD-0449,organizational,2,"China Telecom reports more than 900 million kWh saved a year and 90% lower deployment and operating costs, a measurable improvement in a result rather than a small gain."
 AIBD-0449,societal,2,"China Telecom reports a cut in CO₂ emissions of more than 500,000 tons. No independent check of the supporting calculations appears in the sources."
 AIBD-0459,organizational,,"The research prototype is intended to improve the speed and coverage of monitoring, and no measured comparison has been reported."
 AIBD-0459,societal,,Reduced conflict and better information integrity are goals. Neither outcome is documented.
@@ -792,7 +792,7 @@ AIBD-0523,personal,2,"SK Telecom reports 76.5% fewer self-harm incidents in a 20
 AIBD-0542,organizational,1,The council reports time savings in administrative workflows and has not shown a lasting change in its services.
 AIBD-0542,personal,1,Staff report less repetitive administrative work and more time for other duties.
 AIBD-0561,organizational,1,"The council reports reduced routine-call demand and better routing, which amounts to a modest gain in efficiency."
-AIBD-0561,personal,,"The council reports no outcome for an individual officer or resident. It gives no response count or baseline for the thumbs-up feedback, and councillors report that some callers hung up without help."
+AIBD-0561,personal,,"The council reports no outcome for an individual officer or resident. It gives no response count or baseline for the thumbs-up feedback, and councilors report that some callers hung up without help."
 AIBD-0565,organizational,2,"Transport for West Midlands used the sensor observations to choose and build road-layout changes, which improved its ability to find and treat sites with many near misses."
 AIBD-0565,societal,2,Near misses at one Coventry junction fell from 17 to 2 over equal two-month periods after the refuge was built. Transport for West Midlands gives no data on collisions or injuries.
 AIBD-0592,organizational,1,"The vendor reports that AI use in the campaign cut cost per impression by 9% and cost per click by 5%, a cost saving with no reported effect on votes."
@@ -816,11 +816,11 @@ AIBD-0881,organizational,1,"Staff perceived savings of around an hour a day on t
 AIBD-0919,organizational,2,"ISF found that about 74% of investigations started from risk-based selections led to action in 2024, against 40% of those started by public tips."
 AIBD-0925,societal,,"The reviewer gives no figure for delivery without the system, so the size of the reduction in skew cannot be established."
 AIBD-0929,organizational,,Readers' gains were measured on archived images in retrospective studies that AQuAS rated at high risk of selection bias.
-AIBD-1030,organizational,2,"In the studies that AETSA reviewed, ejection fractions from the four systems agreed with expert measurement, with usable nurse scans in 98.8% of cases in one study."
+AIBD-1030,organizational,,"The agreement and usable-scan figures come from validation studies of accuracy, a tested result, with no outcome for any hospital or care reported."
 AIBD-1030,societal,,AETSA found no data on use of the systems in Europe and no long-term studies of their diagnostic validity.
 AIBD-1095,personal,2,"Patients in the reviewed studies received better target coverage and, in most studies, lower doses to nearby organs, though no study reported tumor control, survival or long-term toxicity."
 AIBD-1141,organizational,2,The auditor found that plate-reader matches led APD to 165 arrests and about 133 prosecutions from March to December 2024.
-AIBD-1141,personal,,The audit counts the recovery of a missing or endangered person in the third quarter and gives no detail of the case.
+AIBD-1141,personal,4,"The audit counts one missing or endangered person recovered through the plate-reader program from March to December 2024, a serious condition resolved, though it gives no detail of the case."
 AIBD-1141,societal,,The audit does not measure whether the arrests reduced crime in Austin.
 AIBD-1197,personal,3,"The farmer's potato sales of more than $800 paid his children's school fees and, in his account, restored his family's income after the cyclone destroyed his harvest."
 AIBD-1197,societal,,"A ministry officer said that productivity is improving where farmers share the app, but no measurement is given."
@@ -833,14 +833,14 @@ AIBD-0997,personal,,"The FCC measured delay and accuracy on test calls and later
 AIBD-1001,personal,,"The FCC certified the service on lab tests before it captioned incarcerated users' calls, and its later notice reports no outcome for users."
 AIBD-0077,personal,3,A family received a definitive molecular cause of their son's death. They used it for IVF with preimplantation genetic testing to avoid a recurrence of the lethal disease. The infant himself died at two days of life.
 AIBD-0774,organizational,,"The predictions were made on archived records, and no clinician acted on the scores."
-AIBD-0630,organizational,2,Primary care physicians aided by the device reached 91.4% sensitivity for skin cancer referral against 82.0% unaided.
+AIBD-0630,organizational,,"The sensitivity gain was measured in a reader study on 50 lesion images that changed no referral, so no realized gain is reported for primary care."
 AIBD-0773,organizational,,"The comparison used archived cases, and no patient was referred because of the software."
 AIBD-0055,personal,2,"The patient regained active thumb and wrist movement that conventional rehabilitation had not produced. The gains are small, and pain did not consistently improve."
 AIBD-0055,societal,,"The authors report a single case with no follow-up and no use beyond the treating group, so no outcome for society is documented."
 AIBD-0915,organizational,,"The review pooled accuracy from screening studies, and it reports no outcome of screening programs that used the software."
 AIBD-1002,personal,,"The FCC certified the app on lab tests before it captioned users' calls in the United States, and its later notices report no outcome for users."
 AIBD-1003,personal,,"The FCC certified the service on lab tests, and NexTalk had sought compensation for no calls by January 2025, so no outcome for users is reported."
-AIBD-0737,personal,,NICE gives no size for the faster access to treatment and cannot say how much of it is due to the software.
+AIBD-0737,personal,2,"In most of seven observational studies that NICE reviewed, people reached thrombectomy or thrombolysis sooner after centers adopted the software, while other parts of stroke care also changed."
 AIBD-0229,societal,1,"The public learned which tool made the robocall, and the FCC later relied on Pindrop's analysis, with an NBC News report, for that fact in its proposed fine. No source shows that the analysis changed an outcome."
 AIBD-0123,personal,3,"After 14 years of complete quadriplegia the patient regained the ability to drink and eat by himself through the glove that the interface drove. The authors of the preprint report neurological recovery: His upper-limb motor score rose by 5 points, and his score on the Action Research Arm Test rose by 27 points. He could also hold objects without the interface."
 AIBD-0301,personal,3,"Silent, extensive, reversible ischemia from three-vessel disease was found and treated with quadruple bypass in an asymptomatic man. The authors' learning point is that such ischemia can end in exercise-induced sudden death. The counterfactual is not established."
@@ -867,7 +867,7 @@ AIBD-0567,personal,1,Managers report that they spend less time drafting job post
 AIBD-1065,organizational,,"Doctors read stored images in the maker's pre-market trial, and no patient's care depended on the software."
 AIBD-0754,organizational,2,"HKO found an edge for the AI models in track forecasts for eight cyclones in 2023, and an AI model correctly foresaw that a predicted cyclone would not form."
 AIBD-0755,organizational,2,"Averaged over all lead times, Pangu-Weather's track error was 140.8 against 169.7 for ECMWF's model in CMA's 2023 verification."
-AIBD-0557,organizational,1,The council reports that selected data-retrieval tasks took 90% less time and cost in the pilot than in the existing system. Savings across deployed services are unmeasured.
+AIBD-0557,organizational,,"The reduction was measured only in proof-of-concept testing, and no saving from the tool's later use is reported, so the organizational gain is tested, not realized."
 AIBD-0557,personal,,"The council reports a test result for tasks and no outcome for any social worker, child or family, and no gain in child safety has been shown."
 AIBD-0549,organizational,2,"The robot repaired a small number of cracks in the public-road pilot, a new operational capability."
 AIBD-0549,societal,,"Fewer potholes and injuries and less dangerous roadwork for crews are intended, and no safety benefit has been reported."
@@ -891,7 +891,7 @@ AIBD-0761,organizational,,"The forecasts were run after the storm for comparison
 AIBD-0371,personal,,"PTI reports only that police “prevented a possible suicide by a student hailing from the Jhunjhunu district” within a week of the launch. Neither PTI nor the police have described what the student posted, the student's condition when reached or what officers did, so the outcome is not established."
 AIBD-0708,organizational,1,"The computerized review closed 149 accountability reports and 20 older agreements without a detailed financial review, a saving of staff time that the TCU did not measure."
 AIBD-0810,organizational,,"The qualification allows future use in ablation device trials, and no trial using the tool is reported."
-AIBD-1121,organizational,2,"In HTW's pooled analysis, pathologists' sensitivity for cancer rose from 91.6% to 96% with AI help, while specificity did not change."
+AIBD-1121,organizational,,"The sensitivity gain comes from HTW's pooled analysis of mostly retrospective reader studies, and no result from a pathology service's own use of the tools is reported."
 AIBD-1167,organizational,1,UNOSAT reports that analysts did not need to correct 86 percent of the images that Flood AI processed.
 AIBD-1167,societal,,The evaluation does not report whether the flood maps reached responders sooner or changed any response.
 AIBD-0814,organizational,,"Every participant also had a colonoscopy, so the test changed no screening decision in the study."
@@ -899,7 +899,7 @@ AIBD-0473,organizational,1,"AgileSoDA reports 76% less floor-planning time, from
 AIBD-0473,personal,,"Higher-value work and professional development for engineers are expected consequences, and the sources include no measure of them."
 AIBD-0768,personal,,"Patients imaged themselves at home in the study, and FDA states that it has not been demonstrated whether the benefits will result in improved visual outcomes."
 AIBD-0216,personal,2,"Students of tutors with the tool were 4 percentage points more likely to pass session exit tickets (62% to 66%), and 9 points for lower-rated tutors. The authors found no significant gain on end-of-year tests."
-AIBD-0216,organizational,2,"The provider's tutors with the tool prompted students to explain more often and gave generic praise less often, at about $20 per tutor per year."
+AIBD-0216,organizational,2,"The provider's tutors with the tool prompted students to explain more often and gave away solutions less often, at about $20 per tutor per year."
 AIBD-0232,societal,2,"Two county lines dealers were convicted, according to the force and the court outcome. Officers seized 99 wraps of crack cocaine and two knives."
 AIBD-0772,organizational,,"The accuracy figures come from validation studies, and no practice is reported to have changed treatment because of the output."
 AIBD-0537,personal,,"Farmers are meant to make better planting decisions, and the team reports no farmer who used the system."
@@ -915,7 +915,7 @@ AIBD-1188,organizational,2,The partnership's counts show 849 offenses detected i
 AIBD-1188,societal,,The report gives no casualty or behavior figures for the area.
 AIBD-0747,personal,2,"In a 12-week study in Germany, Kaia users improved in pain beyond the minimal clinically important difference, while people in standard care did not."
 AIBD-0657,organizational,,The study compares forecast skill on past periods and reports no realized gain for ECMWF or for any user of the forecasts.
-AIBD-0006,personal,2,"Patients on 60 mg once a day gained a mean 98.4 mL in forced vital capacity over 12 weeks. Patients on placebo lost 20.3 mL. It is a measured improvement in a test of lung function, and it was a secondary endpoint of a small trial. Three patients on 60 mg and one on placebo had an acute exacerbation. Insilico has not reported a lasting change in any patient's disease."
+AIBD-0006,personal,,"The gain is a mean change in a secondary endpoint of a phase 2a trial, and the drug has no approval, so no one has received it outside the test."
 AIBD-0006,societal,,"A wider benefit would need confirmation in larger and longer trials, and the authors call for them. Insilico gave the first dose of the phase 3 trial in September 2026, and the trial has no results yet."
 AIBD-1094,organizational,,"The accuracy was measured in the maker's pre-market trial, and the report does not say that the software's prompts guided any patient's care."
 AIBD-0161,societal,2,"The fire was held to three acres after helicopters were dispatched within 30 minutes. CORE's CEO called the detection and location “crucial”. The Forest Service spotted the fire at the same time, which limits what can be credited to the cameras."
@@ -992,7 +992,7 @@ AIBD-0712,organizational,1,"The auditor reports that the system saves the hospit
 AIBD-0524,organizational,,"Humanitarian organizations are meant to process interviews and feedback more efficiently, and no result has been reported."
 AIBD-0524,personal,,"Kurdish-speaking people are meant to have their views captured more accurately, and no changed service or decision is documented."
 AIBD-0380,personal,2,"The fraud victim who lost 980,000 yuan had 500,000 yuan frozen within 10 minutes, and 200,000 yuan was recovered after the arrests, according to the police. Whether the frozen sum was returned is unknown."
-AIBD-0380,organizational,2,"The Kunshan bureau reports a bust of more than 20 suspects and nine fraud arrests on the third day. It reports 609 fraud cases solved in six months, with recovery rates up 62%. The gain for the unit is measurable on the bureau's own figures."
+AIBD-0380,organizational,2,The Kunshan bureau reports a bust of more than 20 suspects and nine fraud arrests on the third day. It reports 609 fraud cases solved in six months. The gain for the unit is measurable on the bureau's own figures.
 AIBD-0380,societal,2,"The police report that 609 fraud cases were solved and 32.47 million yuan was recovered across Kunshan in six months, a measurable result for fraud victims in the city. No lasting change across the population is reported."
 AIBD-1085,organizational,,"The software read stored images in the maker's pre-market trial, and no patient's care depended on its prompts."
 AIBD-0400,organizational,2,"The companies report improved sorting accuracy, 30–50-fold efficiency gains and lower Poria return costs. The attribution to the system and the baseline definitions remain unclear."
@@ -1023,7 +1023,7 @@ AIBD-0286,personal,3,"The alert started a series of tests in which physicians di
 AIBD-0197,organizational,,"The monitors were blinded, so nobody acted on an alert. The authors document associations and no change in treatment or production."
 AIBD-0197,personal,,No outcome for the farmer or animals is reported.
 AIBD-1192,organizational,1,"The plant's productivity rose by the account of its workers and managers, who said that daily tasks take less time. The study gives no figures before and after."
-AIBD-1192,personal,1,"Workers told the researcher that the tools save them time, physical effort and mental stress, and managers reported fewer calls outside working hours."
+AIBD-1192,personal,1,"Workers told the researcher that the tools save them time, physical effort and mental stress, and that they get fewer calls outside working hours."
 AIBD-0091,personal,,No person is documented as affected by the repair.
 AIBD-0091,organizational,2,"The operator fixed a passing valve on a flare line and restored normal operations at one facility, according to UNEP's case document."
 AIBD-0091,societal,3,"A source that UNEP traces to 1987 stopped emitting. Carbon Mapper's EMIT data show that it released about 2,100 to 3,600 kilograms of methane per hour in 2022 to 2024. No study quantifies the emissions avoided."
@@ -1065,11 +1065,11 @@ AIBD-0574,organizational,,Organizers planned for the digital humans to assist vi
 AIBD-0047,personal,,"The trial enrolled healthy volunteers and measured safety, pharmacokinetics and the neutralization of virus in their serum. The volunteers received no therapeutic benefit."
 AIBD-0047,organizational,,The authors report a completed phase 1 trial and recommend a phase 2 trial. They report no outcome for Generate Biomedicines.
 AIBD-0047,societal,,"The sources contain no evidence that the antibody prevents or treats infection in patients, so no benefit to the public is shown."
-AIBD-0745,organizational,2,"In the CLARIFY study that the contractor cites, the software matched the consensus of expert readers with 99.7% accuracy for stenosis above 70% in 232 patients."
+AIBD-0745,organizational,,"The 99.7% agreement with expert readers is an accuracy result from a cited study, and the contractor calls the improved diagnostic capability potential, so no realized gain for providers is reported."
 AIBD-0745,personal,,"Physicians changed plans for 57.1% of patients in CERTAIN, but no cited study measured patient outcomes against standard care."
 AIBD-0529,personal,2,"In a limited public rollout, visually impaired passengers get audible arrival alerts, automatic unlocking and voice-first controls. Baidu said that they took more than 200 rides in Wuhan. Baidu has not reported whether the passengers gained lasting independent mobility."
 AIBD-1212,societal,,"The bureau approved the bus for service with no driver on a conformity check, and no outcome for riders or other road users is reported."
-AIBD-1149,personal,,"The evaluator scored the captions near the standard for one season, but the report gives no earlier figures and no outcome for viewers beyond the absence of complaints."
+AIBD-1149,personal,2,"The broadcaster's evaluator scored its automatic live news captions from 97.65 to 98.61 across 48 samples in 2023-2024, mostly at or above the CRTC's 98 standard, and viewers made no complaints."
 AIBD-0441,organizational,1,Hubei Telecom reports that training shortened from three months to one week and that handling time fell by 10%.
 AIBD-0441,personal,1,"Hubei Telecom reports that new agents complete training in one week, down from three months. No source compares how well they learn."
 AIBD-0477,organizational,,"Design businesses are meant to work more efficiently and develop products faster, and no result has been reported."
@@ -1089,7 +1089,7 @@ AIBD-0558,organizational,1,The council reports that the assistant saves the occu
 AIBD-0558,personal,1,A deputy therapy manager obtained needed equipment information while a colleague was on leave. No care outcome is documented.
 AIBD-0140,personal,2,"By her mother's account, the girl's displaced fracture of the distal radius was set and cast within days. At urgent care, she had been sent home in an ace wrap. The orthopedist's remark that untreated displacement would likely have needed surgery comes only from the mother. No clinician has spoken, and no record is public. She had already asked for the films for the primary-care physician. Whether the outcome would have differed without Grok is not established."
 AIBD-0150,personal,,"NBC News reported that she overturned the eviction and avoided roughly $55,000 in penalties and more than $18,000 in overdue rent. The ruling itself has not been found. According to court records, her later petitions in the same case were denied in November 2025."
-AIBD-0202,organizational,2,"On six farms, shipping age fell from 182.3 to 176.7 days and the grade 1+ share rose from 35.3% to 37.7%. Income per head rose from 100,000 to 118,000 won, up 18%. On Pocheon farms, sow accidents fell from 3.1% to 2.7% and piglets per sow per year rose from 18.3 to 19.2. These are the agency's own before-and-after figures."
+AIBD-0202,organizational,2,"On six farms, shipping age fell from 182.3 to 176.7 days, the grade 1+ share rose from 35.3% to 37.7% and income per head rose 18%, by the agency's own before-and-after count."
 AIBD-0202,personal,,Reduced need for farmers to stay in the barn is mentioned but not measured.
 AIBD-0211,personal,2,"Investigators returned 18 confirmed local diagnoses to families, including 11 new diagnoses and seven rediscoveries. In an interview with NBC News, a patient describes the value of receiving an explanation after years of uncertainty. Changes to treatment or health outcomes were not measured."
 AIBD-0211,organizational,1,"The team resolved 18 cases in its local research records, including seven diagnoses already established elsewhere. The study made no simultaneous comparison with a human reanalysis and measured no savings in time, cost or clinician effort."
@@ -1103,7 +1103,7 @@ AIBD-0280,personal,4,"Two children joined at the head were separated, reconstruc
 AIBD-0280,organizational,,"XRlabs claims that implant design took seconds, but it gives no measured comparison with manual design and no independently verified saving of planning time."
 AIBD-0492,organizational,1,The housing establishment reports that AI automates credit and eligibility evaluation and removes manual approval bottlenecks. The share of the program's reported 30% workload reduction that is due to AI is unknown.
 AIBD-0492,personal,1,The housing establishment reports that automated eligibility evaluation helps applicants move through approval more quickly. It gives no figure for a change in household welfare due to the models.
-AIBD-0546,personal,3,"Dorset Council reports that unwitnessed bedroom falls fell by 58.2% and hospital transfers by 79.3%, and half of the homes reported better sleep. Residents face less risk of harm, by the council's account, and one resident's account to the BBC supports it."
+AIBD-0546,personal,2,"Dorset Council reports that total falls fell by 49.2% and hospital transfers by 79.3% in a before-and-after comparison, a measured improvement, with no risk removed and no report on whether it lasted."
 AIBD-0546,organizational,2,The council reports that ambulance callouts fell by 63.7% and that two thirds of homes cut scheduled night checks. The acting manager of one participating home told the BBC that the home will pay to keep the system after the trial ended.
 AIBD-0547,organizational,1,"The service completed the summary task and soft-launched the tool in three consultations, and it reports time savings."
 AIBD-0547,personal,1,Officers write fewer summaries and have more time for analysis and engagement.
@@ -1137,7 +1137,7 @@ AIBD-0350,societal,,The interception concerns one vessel among hundreds that ope
 AIBD-0453,organizational,,"The virtual demonstrator exists only as an initial proof of concept, and no training service has been evaluated."
 AIBD-0453,personal,,No student or trainee learning improvement is reported.
 AIBD-0453,societal,,Rural education equity is a proposed downstream benefit.
-AIBD-0132,personal,2,"A six-year-old girl was taken out of unsupervised contact with a man convicted of 15 counts of indecent assault on a female under 16. He had collected her from school twice before and was carrying a lock knife. The Met's officer said only that abuse was possible, and no allegation about this occasion is reported."
+AIBD-0132,personal,2,"A six-year-old girl was taken out of unsupervised contact with a man convicted of 15 counts of indecent assault on a female under 16. He had collected her from school for her mother and was carrying a lock knife. The Met's officer said only that abuse was possible, and no allegation about this occasion is reported."
 AIBD-0132,societal,1,"A registered sex offender in breach of his order was jailed for two years. The Met presents this as removing a dangerous offender from the streets. On 21 April 2026 the High Court held that the Met's policy is lawful, and the judges said that they had not considered whether the technology is effective. The wider benefit is therefore contested."
 AIBD-0802,organizational,,"Results were not used in care, so no gain in diagnosis or treatment is reported for any hospital."
 AIBD-1024,personal,,"CATARC measured the system in its own test runs, and no crash outcome for drivers or passengers is reported."
@@ -1182,10 +1182,10 @@ AIBD-0106,organizational,,The work adds a named species and a Subantarctic recor
 AIBD-0106,societal,,The work adds knowledge about the diversity and dispersal of a rare phylum. No conservation action or beneficiary population is documented.
 AIBD-1086,organizational,,"The report does not say that doctors acted on the prompts in the maker's pre-market trial, and it reports no outcome of care."
 AIBD-0421,organizational,,Open Climate Fix reports a 5% accuracy gain at a two-hour horizon in its own test on past data. It has not reported that live forecasts improved after Cloudcasting went into production.
-AIBD-0421,societal,,"The annual saving of 100,000 tons of emissions is a projection, and Open Climate Fix has not reported that the saving occurred."
-AIBD-0505,personal,2,"The foundation reports that girls created AI-assisted digital artworks, narratives and advocacy projects. Long-term effects on learning and employment are unknown."
+AIBD-0421,societal,,"The annual carbon saving is a projection, and Open Climate Fix has not reported that the saving occurred."
+AIBD-0505,personal,1,"The foundation reports that girls made AI-assisted artworks, narratives and advocacy projects in its workshops. It quantifies no learning effect."
 AIBD-0505,organizational,,"The workshops, the $750 award and the training of 312 teachers are program activities. No measured gain for the foundation from using AI has been reported."
-AIBD-0390,organizational,1,"Researchers at Kanagawa Dental University and Ohio State University measured shorter design time with Dentbird. Their tests took place in laboratories, and the authors did not measure workload in a dental lab's routine work."
+AIBD-0390,organizational,,"The shorter design time was measured in university laboratory tests, and no dental laboratory or clinic is reported to have gained from it."
 AIBD-0390,personal,,"The authors of a clinical study found that Dentbird crowns fitted about as well as conventional crowns, which shows no gain for patients over the usual method."
 AIBD-0143,personal,,"No benefit to a named person, such as a decision that an AIFS forecast changed, is on record."
 AIBD-0143,organizational,2,"ECMWF reports errors 5 to 15% lower than the IFS for most variables in 2025. Researchers in Inner Mongolia with no tie to ECMWF found a temperature error about 15.7% lower in summer 2026. That is a measured improvement in forecasting, with weaker results for heavy rain, extremes and cyclone intensity."
@@ -1197,9 +1197,9 @@ AIBD-0151,organizational,2,"The case became the clinic's published proof of STAR
 AIBD-0499,personal,1,The makers report that the deployed textbook system gives students immediate personalized feedback in five supported languages. No source measures a learning gain.
 AIBD-0499,organizational,,"The makers state that AI Helpy reduces teacher workload. They give no measure of that saving, and teachers interviewed by Lee and Kim reported added workload from AI digital textbooks."
 AIBD-0883,organizational,1,"Staff told the reviewers that the review of a 10,000-image case fell from up to three days to about an hour."
-AIBD-0883,personal,,The reviewers found a contribution to the wellbeing of staff who view abuse imagery but give no measure of it.
+AIBD-0883,personal,1,"The reviewers found that the tool made some contribution to the wellbeing of staff who view abuse imagery, a small gain that they do not measure."
 AIBD-0883,societal,,The review reports no count of children identified or safeguarded through Police Scotland's use of the tool.
-AIBD-1195,organizational,1,"Licence holders were estimated to save 19 minutes a day on eight routine tasks, with a 95% confidence interval of 17 to 22 minutes, from self-reported time categories."
+AIBD-1195,organizational,1,"License holders were estimated to save 19 minutes a day on eight routine tasks, with a 95% confidence interval of 17 to 22 minutes, from self-reported time categories."
 AIBD-1195,personal,1,"Users reported higher job satisfaction, estimated at 0.56 points on a 7-point scale against non-users, and 65% said that they felt more fulfilled at work."
 AIBD-0448,organizational,2,"The makers attribute lower packet loss and delay to the combined operational system. AI supports diagnosis and recommendations, and its share of the improvement is not measured separately."
 AIBD-0448,personal,,"The makers claim a better experience for users, and no outcome for individual users has been reported."
@@ -1221,7 +1221,7 @@ AIBD-0382,organizational,2,"The Şırnak police turned a software flag into a la
 AIBD-0078,personal,3,"After a hemorrhage with ventricular extension, the patient improved from a modified Rankin Scale score of 4 at one month to 1 at one year. The software's share is the time saved in transfer, and surgery was the treatment."
 AIBD-0078,organizational,2,"Interhospital transfer took 101 minutes against the system's 199.7-minute average, and the receiving team was engaged before the patient left the first hospital."
 AIBD-0126,personal,,"The recovered Rs 79.5 lakh belonged to the courier's employer, R K Enterprises. Nothing is reported about the outcome for the courier himself."
-AIBD-0126,organizational,2,"R K Enterprises got back Rs 79.5 lakh of the Rs 80 lakh taken at gunpoint, which police described as the entire amount. Delhi Police's North district cleared, within about 24 hours, an armed robbery whose video had gone viral. Both accused are in judicial custody under the Bharatiya Nyaya Sanhita and the Arms Act, and police recovered the pistol."
+AIBD-0126,organizational,2,"R K Enterprises got back Rs 79.5 lakh of the Rs 80 lakh taken at gunpoint, which police described as the entire amount. Delhi Police's North district cleared, within about 24 hours, an armed robbery whose video had gone viral. Both accused were booked, and police recovered the pistol."
 AIBD-0126,societal,,"Two men who had watched cash couriers and used a firearm were arrested. The sources do not show that further robberies were prevented, so the extent of any public benefit cannot be established."
 AIBD-0842,organizational,1,"The reviewer states without a figure that the tool finds disclosable material much faster than a human, and he records a fault that left documents out of searches."
 AIBD-0552,organizational,2,"The council reports that it uses the new traffic intelligence in planning, including for bus routes. This is a gain in analytical capability, and no reduction in congestion has been measured."
@@ -1246,17 +1246,17 @@ AIBD-0470,personal,,"The makers intend the assistant to reduce decision fatigue 
 AIBD-0470,organizational,,"The makers intend employers to benefit from more effective decisions, and no organizational result is documented."
 AIBD-0128,organizational,2,"KEA stopped an attempt to enter with forged papers in the app's first statewide run. The Hindu reports that all verifications ran without technical glitches on the second day. The authority gained a working check on identity across 3,30,808 registrants, shown in one case."
 AIBD-0128,societal,,One person who was not the candidate on record was kept out of the test. The exam authority has not reported an effect on the 3.3 lakh registrants or what she meant to gain. So the extent of any benefit to the cohort cannot be established.
-AIBD-0583,organizational,1,"Researchers reviewed fewer images and estimated a shorter workflow. Because the workflow missed snakes, it suits only some monitoring tasks."
+AIBD-0583,organizational,,"The shorter workflow is an estimate from a methods comparison on archived images, and no monitoring program is reported to have adopted it."
 AIBD-0583,societal,,The researchers report no conservation action or wildlife outcome.
 AIBD-0129,personal,,"Residents on Jieshou Road had written that the car's passes late at night seriously affected their quality of life and sleep. The car was identified and referred for a review of its modifications. Whether the noise stopped afterwards is not documented, so no outcome for the residents is reported."
 AIBD-0129,organizational,1,The bureau closed one complaint in 24 hours and used the case to publicize its enforcement with sound cameras. It gives no figures for its claim that the cameras “greatly raise the success rate” of tracking noisy vehicles.
 AIBD-0349,personal,1,"By Google's feedback data, recipients were likely to drop, cover and hold on or to warn others. No individual injury avoided is documented, and Google collected the data."
 AIBD-0349,organizational,,No organization's decision or operation is documented as changed by the alerts.
 AIBD-0349,societal,2,"More than 16 million users were alerted, with a median warning of 56 seconds for weak shaking. The “Take Action” alerts did not reach inland areas of moderate shaking (MMI V) in time. No reduction in injuries is demonstrated, and Google employees wrote the evidence."
-AIBD-0699,personal,,No count of people screened on the trucks or of costs averted is given.
+AIBD-0699,personal,1,The reviewers found that the trucks reduced the need for travel and averted high out-of-pocket costs for people in remote areas.
 AIBD-0699,societal,2,"An evaluation cited by the reviewers found that TB treatment coverage rose to 60 percent against a national average of 32 percent, a result of the whole community package."
 AIBD-0236,societal,,"A kernel bug in memory safety that attackers could reach remotely was fixed in mainline on 28 April 2025. By 6 December 2025 four stable branches had the fix, before any reported exploitation. The CVE record lists the 5.15 longterm branch as affected with no fixed version. How many ksmbd users were exposed is unknown."
-AIBD-0236,organizational,,"Heelan gave the kernel project a report and a fix, and its maintainers committed the fix on 25 April 2025."
+AIBD-0236,organizational,3,"The kernel project received a report and fix for a remotely reachable use-after-free, which maintainers merged into mainline and four stable branches, a risk removed from maintained kernels except 5.15."
 AIBD-0424,organizational,,"The model is in research and prototyping, and its published predictions have no reported use in a network service or decision."
 AIBD-0424,societal,,"More resilient communications remain an intended benefit, with no reported result."
 AIBD-0789,personal,4,Eight patients had a life-threatening ventricular rhythm ended by a single shock from the device.
@@ -1271,7 +1271,7 @@ AIBD-0326,personal,,No pilot or aircraft is documented as saved by the decoy. In
 AIBD-0326,organizational,,"No official has named X-Guard in an account of the engagements. India's later move to speed up X-Guard deliveries (a search listing on idrw, 13 July 2025) concerns procurement. The sources show no link between it and an outcome of this operation."
 AIBD-0899,organizational,1,"Staff told the Care Quality Commission that the AI application was having a positive impact on the administration of safeguarding concerns, a small administrative gain that the Commission does not measure."
 AIBD-0825,societal,,"EPA's finding rests on planned releases, and no leak found or emission cut in the field is reported."
-AIBD-0076,organizational,,"The developer gained a research result. In its blog, DeepMind reports improvements on about 20% of the open problems that it tested."
+AIBD-0076,organizational,2,"DeepMind's agent found a rank-48 scheme for 4x4 complex matrices, one below Strassen's 49, and outside researchers derived checked rational variants from it, a measurable research result for the developer."
 AIBD-0076,societal,,"The gain is one multiplication fewer for 4x4 matrices. Independent researchers have since derived rational and faster variants, and Kaporin had already reported a design with 48 multiplications in 2024."
 AIBD-0130,personal,1,"Android users in Crete, the Dodecanese and farther away received a message and an audible signal a few seconds before the shaking of a deep magnitude 6.0 quake. How many received it is not stated, no recipient is named, and no lead time in seconds is given. No damage, injuries or protective action are reported."
 AIBD-1180,personal,2,"By the company's figures, workers at the site suffered half as many first aid injuries and 30% fewer serious injuries than in the previous year."
@@ -1280,7 +1280,7 @@ AIBD-1181,personal,3,"Operators no longer handle 60 kg barrels inside containers
 AIBD-1181,organizational,2,The distillery reports zero accidents in the process and estimates savings of EUR 1.38 million a year from unloading three-high stacks.
 AIBD-0131,personal,1,"According to a member of the team that built the app, the room got about 30 seconds of notice. Students, some members of parliament and building staff went outside. No damage or injury is reported, so the benefit is the notice itself."
 AIBD-0917,organizational,2,"Caseworkers found culpable unemployment in 17% of flagged files against 5.5% of random files, with far fewer staff than checking every application would need."
-AIBD-0917,personal,1,"The Court found that the scan made the process less intensive for applicants as well as for UWV, though it gives no measure."
+AIBD-0917,personal,,"The account and quotations report the hit rate and staff savings for UWV and give no finding on applicants. If the Court made one, the account should carry it."
 AIBD-0325,personal,,The survival claim rests on the cousin's post. The dean says that there was no poisoning to survive. No outcome attributable to the advice is therefore documented.
 AIBD-0325,societal,,Al Jazeera Mubasher and Dostor report experts warning that the “trend” could kill. No wider effect is documented.
 AIBD-0478,organizational,1,"Huawei reports that its Pangu models made GAC's research and development work 30 percent more efficient, which is time saved. The figure comes from the developer alone."
@@ -1455,7 +1455,7 @@ AIBD-0535,personal,,"Road users are meant to be protected against compromised ve
 AIBD-0536,personal,,"The team reports simulation results only, and no driver is known to have used the system."
 AIBD-0536,organizational,,"No vehicle operator is known to have used the system, so no operational gain is known."
 AIBD-0536,societal,,The team intends to lower emissions and has measured battery use only in simulation.
-AIBD-0538,personal,,Zimbabwean farmers are meant to receive accessible advice and earn more. The 25% income gain and 40% loss reduction are projections.
+AIBD-0538,personal,,Zimbabwean farmers are meant to receive accessible advice and earn more. The income gain and the 40% loss reduction are projections.
 AIBD-0538,organizational,,Agricultural extension services are meant to reach more farmers.
 AIBD-0538,societal,,"Food security and climate resilience are intended, and no public outcome has been reported."
 AIBD-0539,personal,,"China Telecom gives accuracy figures for the model's answers and pest recognition, and it reports no change in crops, income or pesticide use for any farmer."
@@ -1524,14 +1524,14 @@ AIBD-0740,organizational,,"NICE relays a saving of 16.0 to 21.0 minutes per asse
 AIBD-0740,personal,,"Beyond self-reported satisfaction with digital front doors in general, NICE reports no outcome for people who referred themselves through this chatbot."
 AIBD-1120,organizational,2,"Alerts led police patrols to cleared areas of 0.99 to 11.05 hectares, and the court decided for the enforcement in all 15 appeals."
 AIBD-1120,societal,,"The decisions record convictions, a restoration order and infraction notices, but none reports whether forest grew back or whether clearing fell."
-AIBD-0033,personal,2,"Ivaldo's family obtained the recovery of his body and certainty about his fate after ten months of searching. The search recovered a body, so no life was saved."
+AIBD-0033,personal,2,"The surgeon's family obtained the recovery of his body and certainty about his fate after ten months of searching. The search recovered a body, so no life was saved."
 AIBD-0033,organizational,2,"CNSAS Piemonte ended a ten-month search that had involved ground teams and helicopters of the Guardia di Finanza and the fire service. The Club Alpino Italiano says that manual analysis of the drone photographs would have taken weeks. Bluewin reports that, according to CNSAS, it would have taken months."
 AIBD-0586,personal,2,"Abitante reports that AI made it possible to animate archival photographs of events with few surviving film records, which Abitante says could not have been done without it. The film received awards in 2025, and the sources hold no measure of its effect on viewers."
 AIBD-0633,organizational,,The study tested how well the categories separate risk and did not test whether treatment guided by the software changed outcomes.
-AIBD-0064,personal,3,"An 83-year-old woman was transferred rapidly for thrombectomy of a major stroke, and she describes a very good physical recovery with no serious disabilities. Neither Brainomix nor the Royal Berkshire Hospital has shown how much of the speed came from the software."
+AIBD-0064,personal,4,"A major stroke was identified on arrival, she left for thrombectomy in Oxford within 25 minutes, and she reports a good recovery with no serious disabilities, a serious condition resolved in time."
 AIBD-0064,organizational,2,"NHS England associates the tool with a 64-minute reduction in door-in-door-out time at primary stroke centers. In The Lancet Digital Health, the authors report that thrombectomy rates rose from 2.3% to 4.6% at the 26 hospitals that implemented the software."
 AIBD-0305,personal,2,"A confirmed diagnosis replaced “anxiety” on her records and lets her plan care and equipment. The condition is progressive and has no treatment. The gain is certainty and appropriate management, and her prognosis is unchanged."
-AIBD-0514,organizational,2,The developers report that OneAstronomy scored higher than comparison models on astronomy tests of knowledge and reasoning. No new astronomical discovery has been reported.
+AIBD-0514,organizational,,"The developers report scores on two astronomy test sets. The scores are a test result, and no organization has received a gain from the model."
 AIBD-0514,personal,,The developers intend wider public access to astronomy learning but report no measured effect on learning.
 AIBD-0514,societal,,"Space-weather protection and other public benefits of the research are planned, and none has been reported."
 AIBD-0876,personal,1,"The testers got correct notification summaries, fewer interruptions and a useful summary of a call, a convenience for the user."
@@ -1572,7 +1572,7 @@ AIBD-0271,personal,,"No effect on the two patients, whose diagnoses were already
 AIBD-0271,organizational,,No outcome for the department is reported.
 AIBD-0271,societal,,No event can be credited to the model.
 AIBD-0207,organizational,1,Sheng Siong's gain was small and specific. It kept three bottles on 11 September 2025. It got full restitution of about S$470 for the rest of the 19 bottles (about S$556 in all). A series of thefts over seven visits to one outlet ended. The amount is minor for a chain of 83 outlets. The first detection came from a human stock check and a manual review of closed-circuit television (CCTV) footage.
-AIBD-0662,organizational,1,Researchers can obtain species lists close to expert lists (F1 0.84) without listening to every recording.
+AIBD-0662,organizational,,"The reason states what researchers can obtain, not what was realized. The experts annotated all 15.5 hours, so no saving occurred, and unrated_because should carry the tested wording."
 AIBD-0826,societal,,"EPA's finding rests on controlled releases, and no emission cut in the field is reported."
 AIBD-1133,societal,,"EPA approved the system on controlled releases and Earthview's analysis, and no emission cut in the field is reported."
 AIBD-0544,organizational,2,"The council reports a multilingual 24/7 advice channel that handles roughly 50 conversations a week, a gain in service capability."
@@ -1589,7 +1589,7 @@ AIBD-0149,personal,3,"A 16-year-old whose farewell letter led police to assume a
 AIBD-0149,organizational,1,The Frankfurt police recorded the first confirmed success of a system in use since July 2025. The police president and the interior minister cited it as validation. netzpolitik.org reported in April 2026 that it was still the only success among a low double-digit number of searches. The operational gain is modest.
 AIBD-1091,organizational,,"The accuracy was measured in the maker's pre-market trial, and the report does not say that the software's suggestions changed any patient's care."
 AIBD-0739,organizational,,"The tools detected additional moderate to severe vertebral fractures that original radiology reports had missed, generally with specificity above 90%."
-AIBD-0595,personal,,"The benefit is intended, and the sources show no measure of what voters learned from the service."
+AIBD-0595,personal,,"Tens of thousands of voters used the assistant, and no source measures a change in what they knew or whether they voted."
 AIBD-0088,personal,,The National Hurricane Center has not credited the AI guidance with an outcome for any individual. The impacts reported cover only the population as a whole.
 AIBD-0088,organizational,2,"NHC forecasters blended the DeepMind ensemble into official track forecasts from Discussion 1 and set intensity forecasts closest to it from Discussion 10. Melissa's official track error at 120 hours was 87.7 nautical miles, against a five-year mean of 185.4 nautical miles. NHC's Science Operations Officer called the AI guidance very valuable for Melissa."
 AIBD-0088,societal,,"No cited report shows that the AI guidance changed preparations or losses in Jamaica. The forecasts covered a Category 5 landfall that affected about 1.6 million people, and the IFRC approved its emergency allocation five days ahead."
@@ -1604,7 +1604,7 @@ AIBD-0163,societal,,"The figure of 300,000 tonnes of carbon dioxide is the maker
 AIBD-1146,organizational,2,"Traffic police issued 173,618 challans for violations that ITMS detected and collected ₹5.05 crore, by the auditors' account."
 AIBD-1146,societal,,"The audit does not measure whether ITMS reduced violations or crashes, and many of the violation cameras were inactive at inspection."
 AIBD-0269,personal,3,"Severe aortic stenosis was found before an orthopedic operation, which changed her care around the operation and led to TAVR."
-AIBD-0269,organizational,,No outcome for the hospital is reported in this case.
+AIBD-0269,organizational,,No outcome for the hospital is reported.
 AIBD-0269,societal,,The report covers one patient.
 AIBD-0851,organizational,1,"CQC reports that redirecting misrouted queries reduced the burden on staff, with no figure given."
 AIBD-0851,personal,1,"CQC reports that the same redirection improved access to support for residents, a small gain that it does not measure."
@@ -1616,12 +1616,12 @@ AIBD-1220,societal,,"The sources count users, countries and research papers, and
 AIBD-0342,personal,,No individual beneficiary is identified. The benefit is an avoided greenhouse-gas release.
 AIBD-0342,organizational,,"The operator rerouted gas to stop the leak, and no gain to the operator itself, such as recovered gas or an avoided cost, is reported."
 AIBD-0342,societal,1,"The site is one source among thousands of MARS alerts, and the trade press counts over 3,500 alerts and about 43 confirmed cases since 2023. The subsequent emissions observed in May 2026 limit the climate benefit."
-AIBD-0158,personal,2,"Rosie had been given months to live after surgery and chemotherapy. Her largest tumor halved, and she regained mobility by late January 2026. ABC News reported on 22 June 2026 that she was still running and playing. A checkpoint inhibitor given at the same time confounds the partial response. The cancer later returned, and Conyngham chose to have her euthanized."
-AIBD-0158,organizational,1,"The UNSW RNA Institute made what Thordarson called the first personalized cancer vaccine designed for a dog, from sequencing by the Ramaciotti Centre for Genomics. They describe the case as a milestone. Conyngham's spin-out GAMGEE raised a $4 million seed round in August 2026 on the strength of the case."
+AIBD-0158,personal,2,"Rosie had been given months to live after surgery and chemotherapy. Her largest tumor halved, and she regained mobility by late January 2026. A checkpoint inhibitor given at the same time confounds the partial response. The cancer later returned, and Conyngham chose to have her euthanized."
+AIBD-0158,organizational,1,"The UNSW RNA Institute made what Thordarson called the first personalized cancer vaccine designed for a dog, from sequencing by the Ramaciotti Centre for Genomics. They describe the work as a milestone. Conyngham's spin-out GAMGEE raised a $4 million seed round in August 2026 on the strength of it."
 AIBD-0693,organizational,,"The office found that the commission uses the tool's flags to respond, but it gives no count of flags, responses or effects."
 AIBD-0693,societal,,No change in online violence against women politicians or in their participation is measured.
 AIBD-0753,organizational,2,HKO found smaller mean errors in tropical cyclone tracks for the AI models than for traditional models in 2024.
-AIBD-1011,personal,,"The 2026 score comes from evaluation data, and in 2020 and 2021 jobseekers applied less often to the service's recommendations than to the older system's."
+AIBD-1011,personal,,"The December 2025 score comes from evaluation data, and in 2020 and 2021 jobseekers applied less often to the service's recommendations than to the older system's."
 AIBD-1163,personal,,"Accuracy was measured against echocardiography, and in the EAGLE trial neither detection nor treatment changed to a statistically significant degree."
 AIBD-1168,organizational,1,"By the figures that the case study relays, the model cut the time to create the textbooks from up to a year to about a month and the cost to $1 per page."
 AIBD-1168,personal,,"The case study does not report that children used textbooks made with the model, which was still being tested in Uruguay."
@@ -1631,18 +1631,18 @@ AIBD-1132,personal,2,Students in classrooms assigned to Guided Learning scored +
 AIBD-0180,organizational,,"The Reserve Bank of India declined a Right to Information request for the number of mule accounts identified. The only monthly figure appears in a news summary, attributed there to the central bank's governor."
 AIBD-0180,societal,,The banks have documented no fraud loss avoided.
 AIBD-0378,organizational,,"The authors of the single-center preprint measured agreement with expert decisions. They report no patient outcome, deployment or event."
-AIBD-0912,personal,,"CQC reports positive impacts on falls and hospital admissions but gives no figures, so the extent cannot be established."
-AIBD-0152,personal,4,"After nearly twelve hours out on a December night, the 78-year-old was found at about 3 a.m. in Dịch Vọng. He was hypoglycemic and close to fainting, and he was taken home. His family said that his health was stable afterward, so a serious harm was averted in time. The sources leave open whether the police trace led to the find."
+AIBD-0912,personal,2,"CQC reports that a pilot led to fewer hospital admissions and less time in hospital, with data showing positive impacts on admissions and falls, an improvement in a result without figures."
+AIBD-0152,personal,,"A passer-by found him at about 3 a.m., and no source links the finder to the camera trace or the social media appeal, so no outcome for him is shown to come from the system."
 AIBD-0152,organizational,1,The camera trace gave Thanh Xuân Ward Police and the Traffic Police a direction of travel and images for the search. The police present the case as evidence of the new system's value.
 AIBD-1033,organizational,,"The review pooled accuracy against human graders, with only a scenario of 1,400 staff hours a year for a region that did not use AI grading."
 AIBD-0153,personal,2,"Two pilots who had lost cabin pressure at 23,000 feet were on the ground in Broomfield within about 35 minutes of departure, untreated and uninjured. They were conscious and could have flown the descent themselves. The benefit is a safe automatic recovery, and no source shows a life saved."
 AIBD-0153,organizational,1,"Buffalo River Aviation's aircraft “landed safely without incident”, in the airport spokeswoman's words. No damage is reported, and the operator said that the aircraft returned to service the next day."
-AIBD-1187,organizational,,EVS reports clear improvements in the quality of bin contents but gives no measure of them.
+AIBD-1187,organizational,2,"EVS counts over 18,100 contaminant detections since November 2024 and reports clear improvements in bin contents, with no before-and-after measure."
 AIBD-0600,personal,,The founder has not reported use of the app or a benefit to its users.
 AIBD-0866,organizational,2,"The Transport Department issued 90,516 challans through the cameras by March 2024, but it forwarded only 3.8% of the violations detected in September 2024."
 AIBD-0866,societal,,"The audit counts challans and does not measure whether the cameras reduced violations, crashes or injuries."
 AIBD-0154,personal,1,"Within two days the intruder who took the tenant's laptops, papers and 14 million VND was identified and detained, and he confessed. Nothing in the sources shows that the property or the money was recovered. The benefit to the tenant is the resolution of the case."
-AIBD-0154,organizational,2,Tân Hưng Ward Police and the Criminal Police Division cleared a burglary by a masked intruder in under 72 hours. Seven outlets carried the case as the police's demonstration of the AI camera system.
+AIBD-0154,organizational,2,Tân Hưng Ward Police and the Criminal Police Division cleared a burglary by a masked intruder in under 72 hours. Several outlets carried the story as the police's demonstration of the AI camera system.
 AIBD-0023,personal,5,"The man was alone and hidden from view in cardiac arrest. The automatic alerts brought family members, who began cardiopulmonary resuscitation about 6–7 minutes after the collapse. He left hospital neurologically intact, and the authors present the outcome as life-saving."
 AIBD-0181,organizational,2,"The Finance Minister reports that assessed customs collections rose by over US$300 million from January to 17 July 2026, a 17.5 percent uplift over declared values. That is a measured gain in the Ghana Revenue Authority's result. The government counted it itself, and traders dispute it."
 AIBD-0181,societal,,Ghana's Finance Ministry has not traced the added revenue to public spending or other wider effects.
@@ -1676,7 +1676,7 @@ AIBD-0641,personal,2,Patients in the app group walked 62.77 meters farther in 6 
 AIBD-0156,personal,4,"The hospital reports that the alarm brought staff to a patient in ventricular tachycardia who had stopped breathing. Resuscitation within the golden time restored heartbeat and circulation before the patient went to intensive care. That is a serious condition resolved in time. Survival to discharge and the neurological outcome are not reported, so the hospital's account does not show that a life was preserved."
 AIBD-0267,personal,3,"The child received a diagnosis of enlarged parietal foramina, and genetic testing found a CDC42BPB variant. The authors state that the diagnosis facilitated earlier therapeutic interventions."
 AIBD-0267,organizational,,No outcome for the hospital is reported.
-AIBD-0267,societal,,This is a single case.
+AIBD-0267,societal,,The report covers one patient.
 AIBD-0258,organizational,1,"The fire service learned of the crash at 11:04, about 46 minutes before the operator reported the helicopter missing, and the call came from the crater area. No source shows that the head start changed the search, since the helicopter's GPS track also ended near the crater."
 AIBD-0258,personal,,All three occupants died. The fire department reported on 18 February 2026 that their bodies had been found in the crater.
 AIBD-0258,societal,,No wider outcome is documented.
@@ -1687,13 +1687,13 @@ AIBD-0298,personal,,The patient was saved by his ICD. The wristband's detection 
 AIBD-0298,societal,,The authors argue that a live system could act as a first witness for unwitnessed arrests. No deployment outcome exists yet.
 AIBD-0299,personal,,"The patient died as expected under palliative withdrawal. The detection was retrospective and no alert, treatment or resuscitation followed."
 AIBD-0299,societal,,The authors present the case as a step toward real-world detection of unwitnessed arrests. No deployment or survival outcome exists.
-AIBD-0856,organizational,2,"The Tribunal relied on expert evidence for Bunnings that the system cut theft by around 13%, and its alerts ran in the high hundreds."
+AIBD-0856,organizational,2,The Tribunal relied on expert evidence for Bunnings that compared stores with and without the system and estimated that it cut theft by around 13%.
 AIBD-0856,personal,,"The Tribunal found that staff had good reason to feel safer, but no assault or injury prevented is counted."
 AIBD-0155,organizational,2,"The temple's loss was the contents of one first-floor office of about ten square meters (staff lockers, some tea, sweets, incense and joss paper). The main hall, statues and worship areas were untouched. The temple stayed open in the run-up to the Lunar New Year crowds. The fire bureau credited the reinforced-concrete structure and its own eight-minute arrival for the containment. A conventional smoke alarm sounded as well. The AI alert's share is an earlier warning, and how much earlier is unsettled."
 AIBD-0886,personal,1,"An unpaid carer received the completed assessment in another language and appreciated the tool, which had simplified the process."
 AIBD-0274,personal,1,Correct identification of a subtle subpulmonic effusion informed on-site management. But the patient refused transfer and left against advice.
 AIBD-0274,organizational,,No outcome for the health unit is reported.
-AIBD-0274,societal,,The case concerns one patient.
+AIBD-0274,societal,,The report covers one patient.
 AIBD-0160,organizational,2,"In one operation the force detained 325 suspects across 14 provinces and closed 69 dealer groups. All 325 were remanded. The force has not compared the operation with those before AVCI, so the size of its gain is not measured."
 AIBD-0160,societal,,The police say that the operation disrupted drug sales networks run through encrypted groups and social media across 14 provinces. They have published no measure of any effect on drug supply or on the public.
 AIBD-0249,societal,,No outcome for the public is documented.
@@ -1705,16 +1705,16 @@ AIBD-0256,personal,,No driver's outcome is documented.
 AIBD-0957,organizational,,"Doctors read stored images in the maker's pre-market trial, and no patient's care depended on the software."
 AIBD-0102,personal,,The tiger reserve has not documented an injury to rangers that the operation avoided. Reporters describe arrests and seizures.
 AIBD-0102,organizational,2,The reserve's Field Director states that the detection and the 24-hour operation averted a major poaching incident. The operation yielded nine guns and more than 20 bows and arrows.
-AIBD-0102,societal,3,Forest staff intercepted armed groups inside a tiger reserve more than once. In February 2026 they seized nine guns and more than 20 bows and arrows. These interceptions matter to the reserve's wildlife.
+AIBD-0102,societal,,"The sources report arrests and seizures inside the reserve but no measured change in poaching or wildlife outcomes, so no realized societal gain is shown."
 AIBD-0157,personal,4,"By Vohra's own post, the truck slowed and pulled onto the freeway shoulder while he was unconscious, with no crash. That is a serious harm averted in time. No vehicle data or official report confirms it."
 AIBD-0302,personal,5,"The driver was trapped upside down in a submerged cab in the river at night with an air pocket of about four inches. Crews pulled her out with bruises only, which is a life preserved. The driver told WKRC that a Life360 service on her mother's phone also called police, so no source shows that the watch's call alone brought the crews."
 AIBD-0302,organizational,,Clermont County dispatch received the automated call and stayed on the line with the driver. The sheriff's office and the fire district have not reported time or resources saved.
 AIBD-0344,personal,,No individual beneficiary is identified.
 AIBD-0344,organizational,,"Operators are reported to have diverted gas to newer infrastructure, and no gain to them, such as recovered gas or an avoided cost, is reported. The operator is unnamed, and Eni did not confirm the closure of this source."
-AIBD-0344,societal,2,"The Chemical Engineer reports that this was the largest source mitigated in 2026, after an estimated 1.7 million tonnes of carbon dioxide equivalent released since 2023. It is one case among about 41 confirmed, and the operator has not confirmed it."
+AIBD-0344,societal,2,"The Chemical Engineer reports that this was the largest source mitigated in 2026, after an estimated 1.7 million tonnes of carbon dioxide equivalent released since 2023. It is one of about 41 confirmed mitigations, and the operator has not confirmed it."
 AIBD-0850,organizational,1,"Many staff said that the tools cut the time to complete forms and assessments, with no figure given."
-AIBD-0850,personal,,"CQC writes that the tools gave staff more time with people and helped reduce waiting lists, but it gives no figure."
-AIBD-1165,organizational,,"The evaluator judged that one example report appeared usable by programs, and the report does not record any decision that drew on it."
+AIBD-0850,personal,1,"CQC writes that the tools let staff spend more time with people and helped reduce waiting lists, a small gain for residents that it does not measure."
+AIBD-1165,organizational,1,"UNICEF's GRM and SBC teams used AI to find patterns in feedback that offices lacked time and skills to process, and an evaluator judged an example report's insights usable by programs."
 AIBD-0327,societal,,Ynet reports that one drone was intercepted and no injuries occurred in the launches of 2 March 2026. No official has credited any interception to Iron Beam.
 AIBD-0327,organizational,,"The Israel Defense Forces said on 12 March 2026 that Iron Beam had not been used in the war. Officials later described limited use and partial coverage, and a senior defense official said on 9 August 2026 that the one delivered system was still not operational."
 AIBD-0788,personal,3,Seven of 35 patients with a positive margin after standard care had all residual disease removed in the first operation.
@@ -1751,7 +1751,7 @@ AIBD-0159,personal,4,"An 18-year-old who had taken rat poison was reached within
 AIBD-0089,personal,,"The authors give statistics on the verification of forecasts for the season, and they report no outcome for any person."
 AIBD-0089,organizational,2,"In its verification, NHC measured lower Atlantic track errors for the DeepMind ensemble than for its official forecast at 12 to 72 hours. An independent analysis found that the ensemble was the most accurate guidance of the season. NHC gained a measurably better tool in operations."
 AIBD-0089,societal,,"The sources measure the accuracy of forecasts. They do not measure a change in public warnings, actions or losses across the season that the AI caused."
-AIBD-0205,societal,2,"The company says that a sewage overflow into the River Alver was averted. The Andover Advertiser says that the river is home to herons, water voles and kingfishers. No source shows what would have happened without the alert, and no pollution occurred. This is a specific avoided harm of unmeasured size."
+AIBD-0205,societal,1,"By the company's account a crew cleared a forming fatberg before any overflow into the River Alver, and no source measures what was averted or shows that an overflow was imminent."
 AIBD-0205,organizational,1,"Southern Water cleared one blockage before it became a pollution incident or a customer flooding. The company says that blocked sewers are the leading cause of its pollution incidents. This is one of the more than 4,000 interventions that it reports in a year."
 AIBD-0692,organizational,2,"The office found that the tools strengthened electoral bodies' monitoring, and in Peru eMonitor+ captured more than 37,000 posts between election rounds."
 AIBD-0692,societal,,"The office found that follow-up actions after monitoring remained limited, and no effect on the spread of disinformation or hate speech is measured."
@@ -1768,7 +1768,9 @@ AIBD-0235,personal,,No victim identified through the tools has been reported.
 AIBD-0374,organizational,2,"The President reports that Ukrainian forces took an enemy position without infantry and without losses, a gain in what the force can do without exposing soldiers. The claim is unverified, and the place, date and unit are unknown."
 AIBD-0343,personal,,No individual beneficiary is identified.
 AIBD-0343,organizational,2,"The operator found and fixed a failed valve within one week of detection, after the leak had released 175 tonnes of methane in a week. The operator is unnamed, and no cost or further detail is reported."
-AIBD-0343,societal,1,"The case is one of 43 confirmed mitigation cases since 2023, from more than 3,500 alerts. The repair stopped a leak that had released 4,900 tonnes of carbon dioxide equivalent in one week."
+AIBD-0343,societal,1,"This repair is one of 43 mitigations that UNEP has confirmed since 2023, from more than 3,500 alerts. The repair stopped a leak that had released 4,900 tonnes of carbon dioxide equivalent in one week."
+AIBD-1237,organizational,2,"Mozilla fixed 271 vulnerabilities that the model identified, 180 of them rated high, in one release."
+AIBD-1237,societal,,"No outcome for Firefox users beyond the fixes is documented, and no source reports that any of the flaws was exploited."
 AIBD-0262,personal,3,"More trial participants achieved complete skin clearance on zasocitinib. In LATITUDE Atlas the rates at week 16 were 36.5% with zasocitinib and 13.9% with deucravacitinib, and in phase 2b 33% at the 30 mg dose."
 AIBD-0262,organizational,2,"Takeda reported in September 2026 that the U.S. Food and Drug Administration had accepted its application under priority review, after Takeda acquired the program for approximately $4 billion upfront. An accepted application confirms neither efficacy nor value created by AI."
 AIBD-0262,societal,,No approval or outcome across a population had been reported by 29 October 2026.
@@ -1798,7 +1800,7 @@ AIBD-0559,organizational,1,The council reports that the live Workforce tool lets
 AIBD-0559,personal,,The front door for residents is intended to simplify access to council services. No outcome for residents has been reported.
 AIBD-0956,organizational,,"The time saving was measured in the maker's pre-market trial, and the report gives no result from laboratories using the approved product."
 AIBD-0884,personal,1,"Frontline staff said that the tool cut their administrative time and let them focus on people, a time saving that the assessment does not quantify."
-AIBD-0257,organizational,,The ministry has reported no result.
+AIBD-0257,organizational,1,"Parapolitika reports that employees whom the transcripts caught breaking the radio protocol were referred for disciplinary action, a first use of the system's output. No safety result is reported."
 AIBD-0257,societal,,No outcome for the public is documented.
 AIBD-0257,personal,,No railway worker or passenger is reported to have been helped.
 AIBD-0252,societal,,"Suspected strike deaths continued after the launch, and the sources contain no record of a strike avoided because of an alert."
@@ -1810,6 +1812,8 @@ AIBD-0913,personal,,"CQC reports a more person-centered approach for people who 
 AIBD-0300,personal,1,"A man whose atrial fibrillation was thought quiescent learned that paroxysms recur after nights of disturbed breathing, and he started CPAP therapy. No confirmed sleep apnea diagnosis and no treatment effect are reported."
 AIBD-0762,organizational,,"The study scores forecasts of past storms, and no warning service is reported to have used the AI forecasts."
 AIBD-0765,organizational,,The authors report forecast skill on past typhoons and no use by a forecasting or coastal agency.
+AIBD-1239,organizational,2,The foundation classified more than two million recordings in three months instead of a year or more.
+AIBD-1239,societal,3,"Two Kichwa communities used the species data in their management plans, and more than 5,000 hectares of their territory became Ecuador's first community-declared conservation areas."
 AIBD-0260,personal,3,"The referral led to an investigation, an arrest and court restrictions that protect the threatened woman. BocaNewsNow reports eight years of probation, two years of GPS monitoring, and restrictions on contact and weapons. Reporters do not reproduce the affidavit or the plea order, and their reports do not show that an attack would otherwise have occurred."
 AIBD-0234,personal,3,"Guards reached two people in apparent crisis after alerts, according to the developer. The sources include no independent account of either case."
 AIBD-0234,organizational,,"No operator has reported an outcome, and Asilla has published no data on false alerts."
@@ -1821,7 +1825,7 @@ AIBD-0914,personal,,"Staff said that they could spend the time saved with people
 AIBD-1020,personal,,"CATARC measured the system in its tests, and no crash outcome for drivers or passengers is reported."
 AIBD-0208,personal,3,"One person, totally blind for more than ten years, regained enough vision to identify E optotypes (0.03, peak 0.1). She can walk indoors and through doorways without an escort. The hospital cautions that she does not yet have full self-care ability and needs long-term rehabilitation."
 AIBD-0010,personal,4,"Police found him in a critical condition, apparently after swallowing something harmful, and he was treated in hospital within minutes of the alert. The police call the outcome a life saved."
-AIBD-0209,personal,3,"Two aviators were recovered from the water and transferred to a helicopter within approximately two hours, according to U.S. Central Command. Their condition was stable. Central Command has given no estimate of the risk of death without the rescue and has not said whether another rescue asset could have reached them."
+AIBD-0209,personal,4,"Two crew members in the water after their helicopter was lost were recovered within about two hours and were stable, per Central Command, a serious harm averted in time."
 AIBD-0209,organizational,,"The Navy has reported no outcome for the military beyond the recovery of the two crew members. The lower risk to crewed rescuers rests on an analyst's general statement, so the extent of any benefit to the organization cannot be established."
 AIBD-0254,societal,,Network Rail reports a reduction without numbers and notes incidents rising again.
 AIBD-0254,organizational,,No quantified operational outcome is documented.
@@ -1838,7 +1842,7 @@ AIBD-0210,organizational,,"TIAA describes the intervention by its staff and repo
 AIBD-0817,personal,1,"Drivers of almost 40,000 cars had the system take over driving tasks for about 24 million km, and the RDW reports no relevant incidents."
 AIBD-0817,societal,,"The RDW gives no crash comparison, so any gain in road safety cannot be measured."
 AIBD-0870,organizational,1,"The regulator found that the trials freed practitioners' time for direct work with people, and it gives no figures."
-AIBD-0239,personal,3,"The 8-year-old, and his mother who was placed under a no-contact order, were shielded from a plan that the father had dated to 20 June. Police say that the platform's information was corroborated when they arrived. He denies intent and no charge has been filed, so a life-saving effect is not established."
+AIBD-0239,personal,3,"The 8-year-old was shielded from a plan that the father had dated to 20 June. Police say that the platform's information was corroborated when they arrived. He denies intent and no charge has been filed, so a life-saving effect is not established."
 AIBD-0239,organizational,2,The Polícia Civil do Espírito Santo obtained a lead through the FBI and the Ministry of Justice CyberLab. It says that it had no other way to get it. Its cybercrime chief called the alert another path for police work. The Ministry rated it the gravest of three such alerts in Brazil.
 AIBD-0012,personal,3,Two young men lost on a winter night in alpine bushland were found with mild exposure within five hours. The inspector overseeing the search said that it could otherwise have become a long-term incident.
 AIBD-0012,organizational,2,"Fire and Rescue NSW, the police and the State Emergency Service avoided an overnight search by several agencies and the risk to rescuers that Inspector Eberle described."
@@ -1859,10 +1863,10 @@ AIBD-0292,personal,2,"The patient's own recordings replaced repeat 30-day monito
 AIBD-0292,organizational,1,"The care team skipped the recommended 30 days of monitoring. The authors say that this minimized the burden and costs of redundant diagnostic processes, and they give no cost figure."
 AIBD-1129,personal,1,"The testers could understand what speakers of four languages meant through their AirPods, a convenience for travel and everyday conversation."
 AIBD-1164,organizational,,"The saving is a modeled estimate per 1,000 people screened, and the brief reports no saving realized in a screening program."
-AIBD-1166,organizational,2,The evaluation found that the tools helped WFP make more effective use of assessment data that funding cuts had reduced.
+AIBD-1166,organizational,1,"The evaluators write that the tools helped WFP make more effective use of reduced assessment data, with no figure, no accuracy data and no comparison with analysis without them."
 AIBD-1166,societal,,"The evaluation says that the tools can enable earlier crisis response, and it reports no response that came earlier."
 AIBD-1178,organizational,2,"The Postal Service closed 1,250 accounts that generated counterfeit labels in about seven months of 2026, a measured result that the Inspector General relays without re-performing the count."
-AIBD-1208,personal,2,Two missing students were traced within 90 minutes and returned to their families. The article does not say what risk they faced or how long a search without the tools would have taken.
+AIBD-1208,personal,3,"Two missing students were traced within 90 minutes and safely reunited with their families, which removed the risk of their remaining missing."
 AIBD-1031,organizational,,"The gain over the Timed Up and Go test comes from one research study that classified past fallers, with no measure of falls prevented."
 AIBD-0376,organizational,2,"In its own release and deployment register, the force reports three arrests and six other interventions over three days. That is a reported operational result, with no independent check of accuracy or of later case outcomes."
 AIBD-0376,societal,1,The force reported detention of three suspects and six checks of order subjects. No specific prevented harm or subsequent conviction is established.
@@ -1894,6 +1898,8 @@ AIBD-0990,organizational,,"The review was still under way when the court ruled, 
 AIBD-0947,personal,1,"Letting the car drive hands-free over long stretches was a convenience for the tester, and ADAC measured no safety outcome."
 AIBD-0900,organizational,1,"CQC reports that the tools reduced practitioners' administrative duties, without figures."
 AIBD-1184,organizational,1,"The inspectors report better decision-making and higher productivity from the program, with no measure of either."
+AIBD-1238,organizational,2,"The NHC's official forecast leaned on the ensemble, and the track it gave, a landfall on the Florida Panhandle, verified while physics-based models pointed to Louisiana."
+AIBD-1238,societal,,No source documents that the forecast changed what people in the storm's path did.
 AIBD-0766,organizational,,"The forecasts were run for past floods, and no warning service is reported to have used them."
 AIBD-0361,personal,,No individual outcome is documented.
 AIBD-0361,organizational,2,"A preprint whose authors include AIMS staff reports that ReefScan let the Meriam monitoring program assess reefs at island scale, which in-water methods alone could not do. The authors report this gain in survey capability without a time or cost figure. They also report that ReefScan underestimated total hard coral cover."
@@ -1911,14 +1917,14 @@ AIBD-1229,personal,,"The ministry links the tool to halving householders' waits 
 AIBD-1231,organizational,1,"Staff report time saved, an hour or more a week for a majority of users, on the tasks where they used Gennai."
 AIBD-0717,personal,2,"Users in kindergarten to grade 2 outperformed controls in two randomized studies, with effect sizes of +0.11 to +0.16, though grade 4 and 5 gains were not meaningful."
 AIBD-1235,organizational,2,The county reports more than twice as many early responses to major incidents as the year before.
-AIBD-1235,societal,3,"Two fires were spotted early, and fire engines arrived within 10 minutes and put them out early."
+AIBD-1235,societal,4,"The monitoring spotted two fires early, an operator reported them at once, fire engines arrived within 10 minutes and put them out early, a harm averted in time."
 AIBD-1233,organizational,2,"The force reports 122 arrests from the trial's alerts, with nine incorrect alerts in 1,380,882 scans."
 AIBD-1233,societal,,"The sources give no measure of crime or safety for the public, and the arrests have not yet reached court outcomes."
 AIBD-1228,organizational,2,The department reports that services carry out on average 14% more MRI scans with the software while maintaining image quality.
 AIBD-1228,personal,1,"The department says that patients gain extra appointments and spend less time in scanners, but it gives no measure for patients."
 AIBD-1227,organizational,1,Anthropic's lab reports that a three-day purification took about 90 minutes and that a first model came in 34 hours instead of weeks.
 AIBD-1227,societal,1,"One new structure, of a vault particle from prokaryotes, adds a clue to the open question of what vaults do."
-AIBD-1232,organizational,2,"Prosecutors report that days of file review now take hours, and in one prosecution the system's lead helped establish further offences that the court upheld."
+AIBD-1232,organizational,2,"Prosecutors report that days of file review now take hours, and in one prosecution the system's lead helped establish further offenses that the court upheld."
 AIBD-1236,organizational,2,Cainz's forecast error fell by 19% against the model that its staff had tuned by hand.
 AIBD-1226,organizational,2,Mozilla fixed flaws that OpenAI reported. Its advisory for Firefox 159 credits OpenAI Codex Security with 34 high-impact flaws among the 167 that it fixed.
 AIBD-1226,societal,,"No outcome for Firefox users beyond the fixes is documented, and no source reports that any of the flaws was exploited."
