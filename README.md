@@ -1,6 +1,6 @@
 # Artificial Intelligence Benefits Database (AIBD)
 
-Benefits of AI, each traced to its sources. This repository keeps every edition of the database that Peter H. Vartanian curates at [petervartanian.xyz/aibd](https://petervartanian.xyz/aibd/), one commit and one tag per edition, so that Software Heritage can archive each one in full. The site always shows the latest edition. Edition 2026-11-04-19fab5b8c7f7 is also on [Hugging Face](https://huggingface.co/datasets/petervartanian/AIBD), with the DOI [10.57967/hf/11447](https://doi.org/10.57967/hf/11447).
+Benefits of AI, each traced to its sources. This repository keeps every edition of the database that Peter H. Vartanian curates at [petervartanian.xyz/aibd](https://petervartanian.xyz/aibd/), one commit and one tag per edition, so that Software Heritage can archive each one in full. The site always shows the latest edition. Edition 2026-11-05-edf5285f39a6 is also on [Hugging Face](https://huggingface.co/datasets/petervartanian/AIBD), with the DOI [10.57967/hf/11470](https://doi.org/10.57967/hf/11470).
 
 A benefit is one good from one system in one setting. A benefit reported in several sources is one benefit with several sources. A benefit that happened again elsewhere is an echo of the first.
 
@@ -45,7 +45,7 @@ The data are released under CC BY 4.0. The site has a [privacy notice](https://p
   title = {Artificial Intelligence Benefits Database},
   year = {2026},
   url = {https://petervartanian.xyz/aibd/},
-  doi = {10.57967/hf/11447},
-  note = {Edition 2026-11-04-19fab5b8c7f7}
+  doi = {10.57967/hf/11470},
+  note = {Edition 2026-11-05-edf5285f39a6}
 }
 ```
