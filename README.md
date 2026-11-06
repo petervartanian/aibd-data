@@ -46,6 +46,6 @@ The data are released under CC BY 4.0. The site has a [privacy notice](https://p
   year = {2026},
   url = {https://petervartanian.xyz/aibd/},
   doi = {10.57967/hf/11470},
-  note = {Edition 2026-11-06-442efa4d02b5}
+  note = {Edition 2026-11-06-29dfe7b422b4}
 }
 ```
