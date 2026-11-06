@@ -6,7 +6,7 @@ A benefit is one good from one system in one setting. A benefit reported in seve
 
 ## Files
 
-The dataset is one file, `records.json`, with 1,137 benefits. Three flat tables come from it:
+The dataset is one file, `records.json`, with 1,148 benefits. Three flat tables come from it:
 
 - `records.csv`, one row per benefit
 - `ratings.csv`, one row for each rated kind of beneficiary
@@ -46,6 +46,6 @@ The data are released under CC BY 4.0. The site has a [privacy notice](https://p
   year = {2026},
   url = {https://petervartanian.xyz/aibd/},
   doi = {10.57967/hf/11470},
-  note = {Edition 2026-11-05-edf5285f39a6}
+  note = {Edition 2026-11-06-442efa4d02b5}
 }
 ```
